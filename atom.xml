@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-30T15:52:27.322Z</updated>
+  <updated>2018-08-30T18:47:06.388Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,39 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>17级游戏组宣传标语</title>
-    <link href="http://yoursite.com/2018/08/30/2ndGeneration/"/>
-    <id>http://yoursite.com/2018/08/30/2ndGeneration/</id>
-    <published>2018-08-30T15:42:29.000Z</published>
-    <updated>2018-08-30T15:52:27.322Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;独立游戏组&quot;&gt;&lt;a href=&quot;#独立游戏组&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="他山之石" scheme="http://yoursite.com/categories/%E4%BB%96%E5%B1%B1%E4%B9%8B%E7%9F%B3/"/>
-    
-    
-      <category term="宣传标语" scheme="http://yoursite.com/tags/%E5%AE%A3%E4%BC%A0%E6%A0%87%E8%AF%AD/"/>
-    
-      <category term="sj" scheme="http://yoursite.com/tags/sj/"/>
-    
-  </entry>
-  
-  <entry>
     <title>自我介绍</title>
-    <link href="http://yoursite.com/2018/08/30/SelfIntroduction/"/>
-    <id>http://yoursite.com/2018/08/30/SelfIntroduction/</id>
-    <published>2018-08-30T15:15:30.000Z</published>
-    <updated>2018-08-30T15:24:31.417Z</updated>
+    <link href="http://yoursite.com/2018/08/31/SelfIntroduction/"/>
+    <id>http://yoursite.com/2018/08/31/SelfIntroduction/</id>
+    <published>2018-08-30T18:40:30.000Z</published>
+    <updated>2018-08-30T18:47:06.388Z</updated>
     
     <summary type="html">
     
@@ -60,6 +32,7 @@
 &lt;p&gt;&lt;strong&gt;Telegram: &lt;a href=&quot;https://telegram.me/Nouthest/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@Nouthest&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;4dm: &lt;a href=&quot;https://steamcommunity.com/id/DaPaoStudio/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@大炮&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;哔哩哔哩: &lt;a href=&quot;https://space.bilibili.com/20997082/#/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@Nouthest&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2018/08/31/SelfIntroduction/alpinecat.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&quot;关于这个博客&quot;&gt;&lt;a href=&quot;#关于这个博客&quot; class=&quot;headerlink&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于这个博客&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;关于这个博客&lt;/h1&gt;&lt;p&gt;   大概会做一下SS::STA游戏组活动记录&lt;br&gt;&lt;br&gt;   偶尔会发一些生活随笔&lt;br&gt;&lt;br&gt;   如果有想写的辣鸡技术文章有可能也会post上来&lt;/p&gt;
 &lt;hr&gt;
@@ -90,7 +63,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Ingress启蒙军，任务党，初级拼图玩家，画图没对过，不起八不出门。面基和交换biocard请tg联系。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;想学日语和粤语，现实是连英语四级都没过，想学摄影，但还不大会构图。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;想学日语和粤语，现实是连英语四级都没过，想学摄影，但还不大会构图,偶尔能拍出还不错的照片，但跟大佬差的远。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;经常对着电脑壁纸发呆，其实时间很多，但都被我发呆浪费掉了，目前&lt;strong&gt;身高192&lt;/strong&gt;，正在减肥，目标BMI21.5。以前宅，现在想当个现充。喜欢猫，更喜欢狗。&lt;/p&gt;
 &lt;/li&gt;
@@ -106,7 +79,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;MarkDown用的不好，脑子也不太清新，所以写的很乱&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;你好，世界。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;你好，世界。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;
     
     </summary>
     
@@ -114,6 +87,48 @@
     
     
       <category term="自我介绍" scheme="http://yoursite.com/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>总算是搭好了</title>
+    <link href="http://yoursite.com/2018/08/31/complete/"/>
+    <id>http://yoursite.com/2018/08/31/complete/</id>
+    <published>2018-08-30T18:23:18.000Z</published>
+    <updated>2018-08-30T18:44:20.627Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;一直想自己搭个博客&quot;&gt;&lt;a href=&quot;#一直想自己搭个博客&quot; class=&quot;headerlink&quot; title=&quot;一直想自己搭个博客&quot;&gt;&lt;/a&gt;一直想自己搭个博客&lt;/h1&gt;&lt;p&gt;##总算是在升大二之前花三天断断续续完成了&lt;br&gt;&lt;br&gt;  55555，完全不会web去DIY博客真的难&lt;br&gt;   &lt;img src=&quot;/2018/08/31/complete/watercat.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="丢人" scheme="http://yoursite.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>17级游戏组宣传标语</title>
+    <link href="http://yoursite.com/2018/08/30/2ndGeneration/"/>
+    <id>http://yoursite.com/2018/08/30/2ndGeneration/</id>
+    <published>2018-08-30T15:42:29.000Z</published>
+    <updated>2018-08-30T18:13:37.571Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;独立游戏组&quot;&gt;&lt;a href=&quot;#独立游戏组&quot; class=&quot;headerlink&quot; title=&quot;独立游戏组&quot;&gt;&lt;/a&gt;独立游戏组&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;作者：游戏组二代目组长&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;用于对2017届软院学生招新&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;我曾见过凯尔莫罕的皑皑雪山;&lt;br&gt;&lt;br&gt;我曾在加勒比海的惊涛中高歌;&lt;br&gt;&lt;br&gt;我曾在圣母百花大教堂的顶点纵身一跃;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="他山之石" scheme="http://yoursite.com/categories/%E4%BB%96%E5%B1%B1%E4%B9%8B%E7%9F%B3/"/>
+    
+    
+      <category term="宣传标语" scheme="http://yoursite.com/tags/%E5%AE%A3%E4%BC%A0%E6%A0%87%E8%AF%AD/"/>
+    
+      <category term="sj" scheme="http://yoursite.com/tags/sj/"/>
     
   </entry>
   
