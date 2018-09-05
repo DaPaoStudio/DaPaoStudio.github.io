@@ -65,7 +65,7 @@
     <link href="http://yoursite.com/2018/08/31/SelfIntroduction/"/>
     <id>http://yoursite.com/2018/08/31/SelfIntroduction/</id>
     <published>2018-08-30T18:40:30.000Z</published>
-    <updated>2018-09-05T13:50:36.862Z</updated>
+    <updated>2018-09-05T13:51:46.074Z</updated>
     
     <summary type="html">
     
@@ -215,11 +215,11 @@
       <category term="科协招新" scheme="http://yoursite.com/categories/%E9%A2%98%E7%9B%AE/%E7%A7%91%E5%8D%8F%E6%8B%9B%E6%96%B0/"/>
     
     
-      <category term="SSSTA游戏组" scheme="http://yoursite.com/tags/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
-    
       <category term="C#" scheme="http://yoursite.com/tags/C/"/>
     
       <category term="Unity" scheme="http://yoursite.com/tags/Unity/"/>
+    
+      <category term="SSSTA游戏组" scheme="http://yoursite.com/tags/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
   </entry>
   
