@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>大炮的部落格</title>
+  <title>大炮&#39;s blog</title>
   
-  <subtitle>也无风雨也无晴</subtitle>
+  <subtitle>未竟的事业</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -215,11 +215,11 @@
       <category term="科协招新" scheme="http://yoursite.com/categories/%E9%A2%98%E7%9B%AE/%E7%A7%91%E5%8D%8F%E6%8B%9B%E6%96%B0/"/>
     
     
+      <category term="SSSTA游戏组" scheme="http://yoursite.com/tags/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
+    
       <category term="C#" scheme="http://yoursite.com/tags/C/"/>
     
       <category term="Unity" scheme="http://yoursite.com/tags/Unity/"/>
-    
-      <category term="SSSTA游戏组" scheme="http://yoursite.com/tags/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
   </entry>
   
