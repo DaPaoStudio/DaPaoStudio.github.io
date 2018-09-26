@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-26T09:26:59.799Z</updated>
+  <updated>2018-09-26T10:21:09.034Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/09/25/FirstMeet/"/>
     <id>http://yoursite.com/2018/09/25/FirstMeet/</id>
     <published>2018-09-25T13:59:29.000Z</published>
-    <updated>2018-09-26T09:26:59.799Z</updated>
+    <updated>2018-09-26T10:21:09.034Z</updated>
     
     <summary type="html">
     
@@ -32,7 +32,47 @@
       <category term="SSSTA游戏组" scheme="http://yoursite.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="游戏组活动归档" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
+      <category term="游戏组面试题" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>InterviewQuestion</title>
+    <link href="http://yoursite.com/2018/09/25/InterviewQuestion/"/>
+    <id>http://yoursite.com/2018/09/25/InterviewQuestion/</id>
+    <published>2018-09-25T11:39:17.000Z</published>
+    <updated>2018-09-26T10:22:00.787Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;2018年游戏组秋招面试题及答案&quot;&gt;&lt;a href=&quot;#2018年游戏组秋招面试题及答案&quot; class=&quot;headerlink&quot; title=&quot;2018年游戏组秋招面试题及答案&quot;&gt;&lt;/a&gt;2018年游戏组秋招面试题及答案&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2018/09/25/InterviewQuestion/title.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="SSSTA游戏组" scheme="http://yoursite.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
+    
+    
+      <category term="游戏组面试题" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MadCoder</title>
+    <link href="http://yoursite.com/2018/09/25/MadCoder/"/>
+    <id>http://yoursite.com/2018/09/25/MadCoder/</id>
+    <published>2018-09-25T10:23:06.000Z</published>
+    <updated>2018-09-26T10:30:32.177Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;《疯狂的程序员》摘录&quot;&gt;&lt;a href=&quot;#《疯狂的程序员》摘录&quot; class=&quot;headerlink&quot; title=&quot;《疯狂的程序员》摘录&quot;&gt;&lt;/a&gt;《疯狂的程序员》摘录&lt;/h1&gt;&lt;p&gt;  &lt;img src=&quot;/2018/09/25/MadCoder/Madcoder.png&quot; alt=&quot;《疯狂的程序员》&quot;&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="他山之石" scheme="http://yoursite.com/categories/%E4%BB%96%E5%B1%B1%E4%B9%8B%E7%9F%B3/"/>
+    
+    
+      <category term="自我定位" scheme="http://yoursite.com/tags/%E8%87%AA%E6%88%91%E5%AE%9A%E4%BD%8D/"/>
     
   </entry>
   
@@ -85,7 +125,7 @@
     <link href="http://yoursite.com/2018/08/31/SelfIntroduction/"/>
     <id>http://yoursite.com/2018/08/31/SelfIntroduction/</id>
     <published>2018-08-30T18:40:30.000Z</published>
-    <updated>2018-09-05T13:51:46.074Z</updated>
+    <updated>2018-09-26T10:11:28.435Z</updated>
     
     <summary type="html">
     
@@ -100,7 +140,7 @@
 &lt;hr&gt;
 &lt;h1 id=&quot;关于这个博客&quot;&gt;&lt;a href=&quot;#关于这个博客&quot; class=&quot;headerlink&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于这个博客&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;关于这个博客&lt;/h1&gt;&lt;p&gt;   大概会做一下SS::STA游戏组活动记录&lt;br&gt;&lt;br&gt;   偶尔会发一些生活随笔&lt;br&gt;&lt;br&gt;   如果有想写的辣鸡技术文章有可能也会post上来&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于我&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;&lt;div class=&quot;alert-green&quot;&gt;此部分上次更新时间 2018-09-05 21:57:15。&lt;/div&gt;
+&lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于我&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;&lt;div class=&quot;alert-green&quot;&gt;此部分上次更新时间 2018-09-26 17:57:22。&lt;/div&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;本名张伟，为了&lt;strong&gt;避免&lt;/strong&gt;被取“伟哥”这种低俗的外号，我选择给自己自封外号张大炮，所以大部分人都叫我大炮&lt;/p&gt;
@@ -123,7 +163,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;一直想玩Minecraft，已经为信仰补票，很羡慕克里斯叮咚的四年MC中玩了4年的地图，视频见：&lt;a href=&quot;https://www.bilibili.com/video/av5157065?from=search&amp;amp;seid=16425630330256671917&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;四年MC&lt;/a&gt;，一直打算玩却一直搁置。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;FC&amp;gt;MD&amp;gt;街机&amp;gt;GBA&amp;gt;QQ飞车&amp;gt;CF&amp;gt;LOL&amp;gt;PC单机&amp;gt;Switch&amp;gt;PS4&amp;gt;Dota2（个人的玩游戏史） 很少玩手游，基本上只会在手机上玩一些独立游戏和Deemo、同步音律喵赛克之类的音游。不玩王者荣耀、手游吃鸡。其实这些游戏刚出来时我甚至是内测玩家，单纯的不喜欢拿手机玩网游&lt;em&gt;（其实还是略带鄙视链的&lt;/em&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;FC&amp;gt;MD&amp;gt;街机&amp;gt;GBA&amp;gt;QQ飞车&amp;gt;CF&amp;gt;LOL&amp;gt;PC单机&amp;gt;Switch&amp;gt;PS4&amp;gt;Dota2（个人的玩游戏史） 很少玩手游，基本上只会在手机上玩一些独立游戏和Deemo、同步音律喵赛克之类的音游。不玩王者荣耀、手游吃鸡。其实这些游戏刚出来时我甚至是内测玩家，单纯的不喜欢拿手机玩网游&lt;em&gt;（不玩手游只是为了维持我高冷的人设（并不&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Ingress启蒙军，任务党，初级拼图玩家，画图没对过，不起八不出门。面基和交换biocard请tg联系。&lt;/p&gt;
 &lt;/li&gt;
