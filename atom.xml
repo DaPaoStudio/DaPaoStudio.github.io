@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-26T10:21:09.034Z</updated>
+  <updated>2018-09-26T13:36:49.491Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/09/25/FirstMeet/"/>
     <id>http://yoursite.com/2018/09/25/FirstMeet/</id>
     <published>2018-09-25T13:59:29.000Z</published>
-    <updated>2018-09-26T10:21:09.034Z</updated>
+    <updated>2018-09-26T13:36:49.491Z</updated>
     
     <summary type="html">
     
@@ -32,16 +32,16 @@
       <category term="SSSTA游戏组" scheme="http://yoursite.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="游戏组面试题" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+      <category term="游戏组活动归档" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
     
   </entry>
   
   <entry>
-    <title>InterviewQuestion</title>
+    <title>2018年游戏组秋招面试题及答案</title>
     <link href="http://yoursite.com/2018/09/25/InterviewQuestion/"/>
     <id>http://yoursite.com/2018/09/25/InterviewQuestion/</id>
     <published>2018-09-25T11:39:17.000Z</published>
-    <updated>2018-09-26T10:22:00.787Z</updated>
+    <updated>2018-09-27T07:55:39.723Z</updated>
     
     <summary type="html">
     
@@ -57,11 +57,11 @@
   </entry>
   
   <entry>
-    <title>MadCoder</title>
+    <title>《疯狂的程序员》摘录</title>
     <link href="http://yoursite.com/2018/09/25/MadCoder/"/>
     <id>http://yoursite.com/2018/09/25/MadCoder/</id>
     <published>2018-09-25T10:23:06.000Z</published>
-    <updated>2018-09-26T10:30:32.177Z</updated>
+    <updated>2018-09-27T07:56:00.371Z</updated>
     
     <summary type="html">
     

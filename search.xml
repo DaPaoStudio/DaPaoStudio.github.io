@@ -17,14 +17,14 @@
       
         <tags>
             
-            <tag> 游戏组面试题 </tag>
+            <tag> 游戏组活动归档 </tag>
             
         </tags>
       
     </entry>
     
     <entry>
-      <title>InterviewQuestion</title>
+      <title>2018年游戏组秋招面试题及答案</title>
       <link href="/2018/09/25/InterviewQuestion/"/>
       <url>/2018/09/25/InterviewQuestion/</url>
       <content type="html"><![CDATA[<h1 id="2018年游戏组秋招面试题及答案"><a href="#2018年游戏组秋招面试题及答案" class="headerlink" title="2018年游戏组秋招面试题及答案"></a>2018年游戏组秋招面试题及答案</h1><p><img src="/2018/09/25/InterviewQuestion/title.jpg" alt=""><br><a id="more"></a></p><hr><h2 id="面试题目"><a href="#面试题目" class="headerlink" title="面试题目"></a>面试题目</h2><h3 id="l-通识题"><a href="#l-通识题" class="headerlink" title="l 通识题"></a>l 通识题</h3><p>（全部要问）</p><ol><li><p>你怎么看待有些人玩破解游戏被正版用户批评后两方互相撕逼，如果你是正版玩家，你怎么看？如果你是盗版玩家，你又怎么看？</p></li><li><p>你怎么看待鄙视链的存在</p></li><li><p>写程序时你想实现一个功能，但你并不知道在这个语言里这个功能要怎么实现，你要怎么办。</p></li><li><p>游戏开发中，你对哪个职务更感兴趣（策划、程序、美术）？</p></li></ol><h3 id="l-游戏阅历"><a href="#l-游戏阅历" class="headerlink" title="l 游戏阅历"></a>l 游戏阅历</h3><p>（除1、2必问外任选）</p><ol><li><p>你从什么时候开始玩的游戏，都在哪些平台上玩过，为什么想加游戏组？</p></li><li><p>选五个游戏让我们快速了解你的品味，你会挑选哪些游戏？为什么？从里面挑一个游戏详细谈谈你喜欢它的哪一点</p></li><li><p>列举10种以上的游戏类型和例子（例如FPS 战地风云）</p></li><li><p>选一个你最喜欢的独立游戏并且给我们介绍一下，并且告诉我们你为什么喜欢它</p></li><li><p>简单讲讲你了解的中国游戏史</p></li><li><p>谈谈对农药or刺激战场or阴阳师或者中国当前游戏业界的看法。</p></li></ol><h3 id="l-策划题"><a href="#l-策划题" class="headerlink" title="l 策划题"></a>l 策划题</h3><p>（难度递增，1必问，其余任选，水平越高越难）</p><ol><li><p>聊聊你想做什么样的游戏，有没有什么一直想实现的Idea</p></li><li><p>你构想过什么样的架空世界观</p></li><li><p>你最近正在玩哪款游戏？你觉得怎样会让这款游戏更出色</p></li><li><p>说一个你认为失败的游戏并阐述理由。</p></li><li><p>对比一下H1Z1、PUBG和堡垒之夜，你认为大逃杀类游戏的内核是什么？</p></li><li><p>你觉得对一个传统rpg/moba/fps游戏来说最重要的是什么？说出你的理由。</p></li><li><p>从下列词中选择至少一个，解释它的含义（提示：游戏相关）心流体验理论、斯金纳箱原理、零和博弈、紫格尼克记忆效应</p></li><li><p>给马洛斯需求层次的每一层都举个对应游戏（体现或者帮助玩家实现）的例子<br><img src="/2018/09/25/InterviewQuestion/Maslow.png" alt="马斯洛需求层次"></p></li><li><p>在空位处填上你认为正确的词<br><img src="/2018/09/25/InterviewQuestion/FlowQuestion.png" alt="第9题"></p><h3 id="l程序题（难度递增，水平越高越难"><a href="#l程序题（难度递增，水平越高越难" class="headerlink" title="l程序题（难度递增，水平越高越难"></a>l程序题（难度递增，水平越高越难</h3></li><li><p>你都知道哪些游戏开发引擎，你都知道它们的哪些特性</p></li><li><p>福利题贪吃蛇那道(<a href="https://blog.dapaostudio.com/2018/08/29/Ti/" target="_blank" rel="noopener">https://blog.dapaostudio.com/2018/08/29/Ti/</a>)</p></li><li><p>在三维空间，给定两个球体 A 和 B 的球心初始位置cA和cB，半径rA 和rB，匀速移动速度<strong>vA</strong>和<strong>vB</strong>，如何判断它们两者会否碰撞，简述你的思路。</p></li><li><p>简述实现思路：用C语言写一个命令行下的俄罗斯方块，方块等用字符表示即可。</p></li><li><p>简述实现思路：用C语言写一个命令行下的2048</p></li><li><p>简述实现思路：用C语言写一个命令行下的贪吃蛇</p></li></ol><hr><h2 id="录取标准"><a href="#录取标准" class="headerlink" title="录取标准"></a>录取标准</h2><p>1.满嘴神论并且过于极端的不收</p><p>2.盗版侠、价值观有明显偏差的不收</p><p>3.明显没有学习能力、不会思考的不收</p><p>4.明显感觉到有鄙视链并且攻击性颇高的不收</p><p>5.游戏阅历过少（指只玩4399之类）的不收</p><p><strong>注意：游戏阅历过少或者因为不知道要干啥才来游戏组的可以推荐到隔壁通识组面试</strong></p><hr><h2 id="参考答案"><a href="#参考答案" class="headerlink" title="参考答案"></a>参考答案</h2><h3 id="l-通识题-1"><a href="#l-通识题-1" class="headerlink" title="l 通识题"></a>l 通识题</h3><p>无参考答案，用于筛选录取标准前四项的人</p><p>第四题关乎到是问策划还是程序，如果是选的美工，由设计组代为面试</p><h3 id="l-游戏阅历-1"><a href="#l-游戏阅历-1" class="headerlink" title="l 游戏阅历"></a>l 游戏阅历</h3><p>主要用于筛选录取标准第五项的人</p><h4 id="游戏类型以及举例（实际上现在的大部分游戏都是复合类型的）"><a href="#游戏类型以及举例（实际上现在的大部分游戏都是复合类型的）" class="headerlink" title="游戏类型以及举例（实际上现在的大部分游戏都是复合类型的）"></a>游戏类型以及举例（实际上现在的大部分游戏都是复合类型的）</h4><ol><li><p>ACT动作游戏，例如快打旋风、猎天使魔女、尼尔：机械纪元</p></li><li><p>FPS 第一人称射击游戏，例如CS、Doom、OverWatch、R6</p></li><li><p>TPS 第三人称射击游戏，例如 给她爱（GTA）、幽灵行动荒野、PUBG</p></li><li><p>RTS 即时战略游戏，例如红色警戒、星际争霸</p></li><li><p>RTT 即时战术游戏，例如盟军敢死队、英雄连</p></li><li><p>AVG冒险游戏，例如塞尔达传说系列、上古卷轴、生化奇兵、纸境奇缘</p></li><li><p>MOBA 类Dota游戏，例如Dota2、LOL、王者荣耀、混沌与秩序</p></li><li><p>FTG 格斗游戏，例如拳皇、街头霸王、VR战士</p></li><li><p>RAC 赛车类游戏，例如马里奥赛车、极品飞车、Forza</p></li><li><p>SIM 模拟类游戏，例如微软模拟飞行、欧卡、都市天际线、模拟人生、星露谷物语</p></li><li><p>SLG 模拟策略类游戏，例如文明、欧陆风云、钢铁雄心</p></li><li><p>RPG 角色扮演游戏，例如仙剑、巫师、辐射4、去月球、传说之下</p></li><li><p>JRPG 日式角色扮演游戏，例如最终幻想、勇者斗恶龙</p></li><li><p>ARPG 动作角色扮演游戏，例如Diablo、Dark Souls</p></li><li><p>MMORPG ManyManOnlineRolePlayGirls 例如WOW、FF14、剑灵、顺火暖</p></li><li><p>TRPG战旗类游戏，例如战锤40K、三国志、超级机器人大战</p></li><li><p>SRPG 策略角色扮演游戏，例如梦幻模拟战、光明力量</p></li><li><p>STG 卷轴射击游戏，例如东方Project、虫姬、雷电</p></li><li><p>MUG 节奏类游戏，例如太鼓达人、Deemo、Voez、喵赛克、Just Dance</p></li><li><p>ADV 日式冒险游戏（多指Galgame）如巧克力与香草、女神异闻录、Will美好世界</p></li><li><p>SPG 体育类游戏，如NBA2K、实况足球、FIFA</p></li><li><p>PUZ 益智类游戏，如俄罗斯方块、噗哟噗哟、宝石迷阵</p></li><li><p>TAB 桌面游戏，如炉石传说、大富翁</p></li><li><p>AR 实景游戏，如宝可梦GO、Ingress</p></li><li><p>塔防游戏，如保卫萝卜、植物大战僵尸</p></li><li><p>沙盒类游戏，如Minecraft、泰拉瑞亚</p></li><li><p>平台跳跃游戏，例如超级马里奥</p></li><li><p>功能游戏，例如高数解迷、几何解密、打字练习游戏</p></li><li><p>禅意游戏，例如风之旅人、Flower、ABZU、山</p></li><li><p>聚会游戏，例如1,2Switch、超级马里奥派对</p></li></ol><p>阅历有限，只能想那么多了</p><h3 id="l-策划题-1"><a href="#l-策划题-1" class="headerlink" title="l 策划题"></a>l 策划题</h3><ol start="7"><li>心流体验理论：<em>一种将个人精神力完全投注在某种活动上的感觉；心流产生时同时会有高度的兴奋及充实感。</em><br><img src="/2018/09/25/InterviewQuestion/sc1.png" alt="Skill-Challenge图"><br><img src="/2018/09/25/InterviewQuestion/sc2.png" alt="心流的上升通道"><br>斯金纳箱原理：<em>斯金纳箱是行为心理学派在实验室内研究动物学习能力的箱形实验装置，游戏开发也得益于此，玩家解开游戏谜题就可获得奖励，相反触发机关则受到惩罚，是操作性条件反射理论的鲜明表现。</em></li></ol><p>零和博弈：<em>博弈论中的一个重要概念，与非零和博弈相对。竞技类游戏，例如英雄联盟、DOTA等游戏就是运用零和博弈理念的典型代表。因为一局就是一次零和博弈，且赢家只有一方，双方从中一次博弈获得的利益是0，不是甲方赢，就是乙方赢，没有双赢的概念。</em></p><p>紫格尼克记忆效应：<em>心理学家布鲁玛·紫格尼克曾经给一群孩子布置了作业，她只让一部分孩子完成作业，另一部分则故意令其中途停顿。之后经过测试，中途没完成作业的孩子对本次作业的内容记忆犹新，而完成作业的孩子大多忘记了本次作业内容。这个试验的结论是：因为完成欲望得到满足，故此人们对已经完成的工作比较健忘；而尚未完成的工作因为完成欲望没有得到满足，导致心里面放不下，并会倾向于继续完成它，于是脑袋中时刻记忆着这些内容。此即为紫格尼克效应。典型代表：消息提醒的小红点、卡牌游戏的套卡、RPG游戏的套装</em></p><ol start="8"><li><img src="/2018/09/25/InterviewQuestion/MA.png" alt="马斯洛需求层次理论"></li><li>原理详见心流体验理论的图<br><img src="/2018/09/25/InterviewQuestion/FA.png" alt=""><h3 id="l-程序题"><a href="#l-程序题" class="headerlink" title="l 程序题"></a>l 程序题</h3></li></ol><p>1.Unity、Unravel、RPGMaker、Cocos、GameMaker Studio、橙光</p><p>其他的别问我，我也不会</p>]]></content>
@@ -45,7 +45,7 @@
     </entry>
     
     <entry>
-      <title>MadCoder</title>
+      <title>《疯狂的程序员》摘录</title>
       <link href="/2018/09/25/MadCoder/"/>
       <url>/2018/09/25/MadCoder/</url>
       <content type="html"><![CDATA[<h1 id="《疯狂的程序员》摘录"><a href="#《疯狂的程序员》摘录" class="headerlink" title="《疯狂的程序员》摘录"></a>《疯狂的程序员》摘录</h1><p>  <img src="/2018/09/25/MadCoder/Madcoder.png" alt="《疯狂的程序员》"><br>  <a id="more"></a></p><h2 id="绝影的话"><a href="#绝影的话" class="headerlink" title="绝影的话"></a>绝影的话</h2><hr><ol><li>禅宗里有段名言，说我们在修炼禅宗之前，山脉就是山脉，河流就是河流；而我们在修炼禅宗的时候，山脉不再是山脉，河流不再是河流；等我们修炼完禅宗后，山脉又复为山脉，河流又复为河流。这就像以前哲学里学的，肯定，否定，否定之否定。这三个阶段，每个阶段都比前一个阶段有进步，虽然第一个阶段和第三个阶段看起来很像，但是它们的本质已经不同了。我从学写程序到现在，经过了这么多年，深刻地感觉到这三个阶段。最开始的时候学了点毛皮，能写个Windows下的程序，就觉得自己很牛了，用你的话说，就算卫星也能放上天——人有多大胆，地有多大产啊。后来慢慢接触的CASE多了，接触的人多了，又发现自己其实还是很菜，掌握的东西都很肤浅，比自己牛的人多的是。再到后来，CASE做得更多，接触的人也更多，我又发现，其实自己的技术还是不错的，牛人谈不上，高手应该算了。现在，你觉得你技术很牛了，你处在哪个阶段呢？</li></ol><hr><ol start="2"><li>根据绝影的经验，每一个CASE，无论大小，都有所谓的“胶着”阶段——最初设计的兴奋和关键技术的攻克都已过去，剩下的就是枯燥的编码，就是天天坐在自己再熟悉不过的电脑前面，开着自己再熟悉不过的VC 6，往里面敲打着自己再熟悉不过的代码。 而每到这个阶段，绝影心里就会莫名其妙地觉得压抑。是啊，这样简单的编码即使换成Bug Yang也能顺利地完成，能好好地写代码，对一个程序员来说是最起码的要求。 更糟糕的是，这里的每一个人都深深地体会到，生活是如此单调。几个男的住在一起，每天除了睡觉就是坐在电脑前面写代码，用绝影的话来说——“几乎没有精神生活”。如果说非要有的话，那就是每天到<a href="http://news.qq.com/" target="_blank" rel="noopener">news.qq.com</a>上把大大小小的新闻全部点击一遍，连最不起眼的死角也不放过，点出来有链接了就继续往里面点。即使是这样，也好景不长，毕竟无聊的时光是无限的，而QQ新闻的内容是有限的，用不了多久，那网站上所有的新闻便都成了旧闻，如果真要看新闻，还得坐在那里等刷—— 一会按一下F5键，看有没有什么更新。</li></ol><hr><ol start="3"><li>全才等于庸才。</li></ol>]]></content>
@@ -221,16 +221,16 @@
     </entry>
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
