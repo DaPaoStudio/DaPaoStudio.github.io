@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-15T10:51:55.158Z</updated>
+  <updated>2018-10-23T10:10:49.276Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>SS::STA游戏组第三次活动</title>
+    <link href="http://yoursite.com/2018/10/23/ThirdMeet/"/>
+    <id>http://yoursite.com/2018/10/23/ThirdMeet/</id>
+    <published>2018-10-23T08:38:43.000Z</published>
+    <updated>2018-10-23T10:10:49.276Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;SS-STA游戏组第三次活动&quot;&gt;&lt;a href=&quot;#SS-STA游戏组第三次活动&quot; class=&quot;headerlink&quot; title=&quot;SS::STA游戏组第三次活动&quot;&gt;&lt;/a&gt;SS::STA游戏组第三次活动&lt;/h1&gt;&lt;p&gt;时间：2018年10月21日下午2:00-4:30&lt;br&gt;地点：G302&lt;br&gt;   &lt;img src=&quot;/2018/10/23/ThirdMeet/title.png&quot; alt=&quot;可能是因为前一天RNG输了，所以这一次少了好多人&quot;&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="SSSTA游戏组" scheme="http://yoursite.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
+    
+    
+      <category term="游戏组活动归档" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第二次技术分享会</title>
     <link href="http://yoursite.com/2018/10/15/SecondMeet/"/>
     <id>http://yoursite.com/2018/10/15/SecondMeet/</id>
     <published>2018-10-15T09:31:48.000Z</published>
-    <updated>2018-10-15T10:51:55.158Z</updated>
+    <updated>2018-10-23T09:05:19.767Z</updated>
     
     <summary type="html">
     
