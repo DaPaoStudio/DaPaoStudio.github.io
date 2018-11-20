@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-24T08:47:29.428Z</updated>
+  <updated>2018-11-20T10:13:07.190Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第四次技术分享会&amp;鸽子处刑会</title>
+    <link href="http://yoursite.com/2018/11/20/4thMeet/"/>
+    <id>http://yoursite.com/2018/11/20/4thMeet/</id>
+    <published>2018-11-20T09:38:43.000Z</published>
+    <updated>2018-11-20T10:13:07.190Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;SS-STA游戏组第四次活动&quot;&gt;&lt;a href=&quot;#SS-STA游戏组第四次活动&quot; class=&quot;headerlink&quot; title=&quot;SS::STA游戏组第四次活动&quot;&gt;&lt;/a&gt;SS::STA游戏组第四次活动&lt;/h1&gt;&lt;p&gt;时间：2018年11月18日下午2:00-4:00&lt;br&gt;地点：G302&lt;/p&gt;
+&lt;p&gt;   &lt;img src=&quot;/2018/11/20/4thMeet/title.jpg&quot; alt=&quot;一定是因为我鸽了所以人才那么少的（叉腰&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="SSSTA游戏组" scheme="http://yoursite.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
+    
+    
+      <category term="丢人" scheme="http://yoursite.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="游戏组活动归档" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
+    
+      <category term="咕咕咕" scheme="http://yoursite.com/tags/%E5%92%95%E5%92%95%E5%92%95/"/>
+    
+  </entry>
   
   <entry>
     <title>第三次技术分享会</title>
@@ -165,7 +190,7 @@
     <link href="http://yoursite.com/2018/08/31/SelfIntroduction/"/>
     <id>http://yoursite.com/2018/08/31/SelfIntroduction/</id>
     <published>2018-08-30T18:40:30.000Z</published>
-    <updated>2018-11-15T09:26:05.661Z</updated>
+    <updated>2018-11-20T09:42:21.474Z</updated>
     
     <summary type="html">
     
@@ -180,7 +205,7 @@
 &lt;hr&gt;
 &lt;h1 id=&quot;关于这个博客&quot;&gt;&lt;a href=&quot;#关于这个博客&quot; class=&quot;headerlink&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于这个博客&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;关于这个博客&lt;/h1&gt;&lt;p&gt;   大概会做一下SS::STA游戏组活动记录&lt;br&gt;&lt;br&gt;   偶尔会发一些生活随笔&lt;br&gt;&lt;br&gt;   如果有想写的辣鸡技术文章有可能也会post上来&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于我&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;&lt;div class=&quot;alert-green&quot;&gt;此部分上次更新时间 2018-11-15 17:25:22。&lt;/div&gt;
+&lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于我&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;&lt;div class=&quot;alert-green&quot;&gt;此部分上次更新时间 2018-11-20 17:40:22&lt;/div&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;本名张伟，为了&lt;strong&gt;避免&lt;/strong&gt;被取“伟哥”这种低俗的外号，我选择给自己自封外号张大炮，所以大部分人都叫我大炮&lt;/p&gt;
@@ -189,9 +214,9 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;本命是 &lt;strong&gt;玉子市场&lt;/strong&gt; 中的 “玉子” &lt;em&gt;北白川玉子&lt;/em&gt;，&lt;em&gt;Kitashirakawa Tamako&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;对 LGBTQIA 没有歧视但是我 &lt;strong&gt;只喜欢女孩子&lt;/strong&gt;，&lt;del&gt;~想要认识可爱的小姐姐，想脱单。&lt;/del&gt;~ 已脱单&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;对 LGBTQIA 没有歧视但是我 &lt;strong&gt;只喜欢女孩子&lt;/strong&gt;，想要认识可爱的小姐姐，想脱单。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;希望能做出真正好玩的国产游戏，目前在西安电子科技大学，软件学院。软院科协游戏三代目组长&lt;strong&gt;（实际上我是游戏组最菜的鶸&lt;/strong&gt;。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;希望能做出真正好玩的国产游戏，目前在西安电子科技大学，软件学院。软院科协游戏三代目组长，西安电子科技大学Nova独游社创始人&lt;strong&gt;（实际上我是最菜的鶸&lt;/strong&gt;。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Visual Studio是&lt;strong&gt;宇宙最强IDE&lt;/strong&gt;，以及：目前只会有Unity的2D部分，打算学html、js、css。&lt;/p&gt;
 &lt;/li&gt;
