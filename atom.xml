@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2018-11-28T08:05:00.642Z</updated>
+  <updated>2018-11-30T03:21:07.150Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>头脑风暴：简单有效的获取灵感的方式</title>
+    <link href="http://blog.DaPaoStudio.com/2018/11/30/BrainStorm/"/>
+    <id>http://blog.DaPaoStudio.com/2018/11/30/BrainStorm/</id>
+    <published>2018-11-30T03:06:37.000Z</published>
+    <updated>2018-11-30T03:21:07.150Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2018/11/30/BrainStorm/title.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;当一个团队想通过群策群力来解决一个难题时，头脑风暴是必不可少的一项活动，但很多时候容易陷入两种极端：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一是陷于灵感枯竭状态，大家相互大眼瞪小眼，会议毫无进展；&lt;br&gt;二是聊嗨了，畅所欲言但漫无边际、离题万里。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;毫无疑问，这两种情况都难以达到会议初衷。&lt;/p&gt;
+&lt;p&gt;所以下面将简单介绍一下头脑风暴以及如何开展一个有效的面向游戏设计的头脑风暴&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="Nova独游社" scheme="http://blog.DaPaoStudio.com/categories/Nova%E7%8B%AC%E6%B8%B8%E7%A4%BE/"/>
+    
+    
+      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="GameJam准备" scheme="http://blog.DaPaoStudio.com/tags/GameJam%E5%87%86%E5%A4%87/"/>
+    
+      <category term="头脑风暴" scheme="http://blog.DaPaoStudio.com/tags/%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>第五次技术分享会</title>
@@ -215,7 +247,7 @@
     <link href="http://blog.DaPaoStudio.com/2018/08/31/SelfIntroduction/"/>
     <id>http://blog.DaPaoStudio.com/2018/08/31/SelfIntroduction/</id>
     <published>2018-08-30T18:40:30.000Z</published>
-    <updated>2018-11-20T09:42:21.474Z</updated>
+    <updated>2018-11-30T03:18:51.085Z</updated>
     
     <summary type="html">
     
@@ -230,7 +262,7 @@
 &lt;hr&gt;
 &lt;h1 id=&quot;关于这个博客&quot;&gt;&lt;a href=&quot;#关于这个博客&quot; class=&quot;headerlink&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于这个博客&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;关于这个博客&lt;/h1&gt;&lt;p&gt;   大概会做一下SS::STA游戏组活动记录&lt;br&gt;&lt;br&gt;   偶尔会发一些生活随笔&lt;br&gt;&lt;br&gt;   如果有想写的辣鸡技术文章有可能也会post上来&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于我&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;&lt;div class=&quot;alert-green&quot;&gt;此部分上次更新时间 2018-11-20 17:40:22&lt;/div&gt;
+&lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于我&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;&lt;div class=&quot;alert-green&quot;&gt;此部分上次更新时间 2018-11-30 11:40:22&lt;/div&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;本名张伟，为了&lt;strong&gt;避免&lt;/strong&gt;被取“伟哥”这种低俗的外号，我选择给自己自封外号张大炮，所以大部分人都叫我大炮&lt;/p&gt;
@@ -247,7 +279,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;喜欢听音乐，纯音乐、电音、摇滚、Rap、中文歌、英文歌、日语歌、8bit音乐我全都要，没用明显的倾向。晚上不戴耳机睡不着&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Steam 忠实用户兼Steam传教士、G胖的帮凶，库存已经到182（其实游戏时间只有600小时左右），目前主要玩Dota2&lt;strong&gt;（很菜）&lt;/strong&gt;、看风景的游戏、rougelike游戏还有一些优秀的独立游戏，17年6月购置switch，塞尔达传说：荒野之息是我目前最喜欢的游戏，&lt;strong&gt;没有之一&lt;/strong&gt;，室友买了PS4，能白嫖的阵营+1（逃。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Steam 忠实用户兼Steam传教士、G胖的帮凶，库存已经到193（其实游戏时间只有600小时左右），目前主要玩Dota2&lt;strong&gt;（很菜）&lt;/strong&gt;、看风景的游戏、rougelike游戏还有一些优秀的独立游戏，17年6月购置switch，塞尔达传说：荒野之息是我目前最喜欢的游戏，&lt;strong&gt;没有之一&lt;/strong&gt;，室友买了PS4，能白嫖的阵营+1（逃。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;如果你想和我一起玩游戏，我的 Steam ID 是 大炮，经常在线，但不经常玩游戏，而且号称&lt;strong&gt;西电鸽王&lt;/strong&gt;，极其擅长咕咕咕。&lt;/p&gt;
 &lt;/li&gt;
