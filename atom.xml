@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2018-12-03T14:07:35.825Z</updated>
+  <updated>2019-01-01T09:53:32.823Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Summary of My 2018</title>
+    <link href="http://blog.DaPaoStudio.com/2018/12/31/SummaryofMy2018/"/>
+    <id>http://blog.DaPaoStudio.com/2018/12/31/SummaryofMy2018/</id>
+    <published>2018-12-31T14:02:56.000Z</published>
+    <updated>2019-01-01T09:53:32.823Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;div class=&quot;alert-red&quot;&gt;本文包含大量语病、错别字、口胡、流水账，如有不适请迅速右上角 &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;alert-red&quot;&gt;本文使用了巨量图片，请注意流量消耗 &lt;/div&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Summary&quot;&gt;&lt;a href=&quot;#Summary&quot; class=&quot;headerlink&quot; title=&quot;Summary&quot;&gt;&lt;/a&gt;Summary&lt;/h1&gt;&lt;p&gt;每年元旦写年末总结的习惯好像是14年开始的吧，总觉得不回头看看这一年自己做过什么然后整理下来会有些对不住自己。今年因为要剪辑视频传B站所以没能在2018年结束之前把年末总结安排妥当，又因为今年发生的事情确实太多太杂，所以不打算在QQ空间写了（或许会在空间发一个阉割版的说说意思意思）。2018年是我第一个完全在大学度过的一年，经历了大一上学期的磕磕绊绊已经基本熟悉大学生活，也慢慢找到了自己感兴趣的东西：独立游戏。&lt;/p&gt;
+&lt;p&gt;学业方面自己还是一如既往的没有好好去学大学的基础课程，虽然预感到自己这样做迟早要还回来，但还是不自觉的会把时间挥霍在自己感兴趣的东西上。&lt;/p&gt;
+&lt;p&gt;技术上代码还是写的很烂，按照GY的评价就是“ 你这代码写得怎么和大一时一样啊，我都惊了”，当时傻乎乎的决定去当全职策划，后来发现策划的水平真的不太容易显示出来，也不太容易证明自己比别人强一点，而且只是当策划的话有点可惜了软件工程这个专业的培养了，纯理工科出身的也很难比过那些文学院的大佬们，现在开始闷头去学U3D和UE4说实话有点晚，但很必要。&lt;/p&gt;
+&lt;p&gt;这一年还结识了很多有趣的同学、结识了一些只能Orz的大佬学长学姐；聚起了一群志同道合的人创建了西安地区唯一一个游戏开发社团：NOVA独游社； &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2018/12/31/SummaryofMy2018/Wishes.jpg&quot; alt=&quot;仔细想想，今年年初许下的愿望或多或少都实现了或实现过吧&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Anyway，虽然2018年不像2017年那样有“高考”这个级别的影响人一生的事情在，但这几乎完全由我自己选择发展方向的一年对我影响依旧巨大。话不多说&lt;del&gt;（明明已经说一大堆了）&lt;/del&gt;，让我们进入正题&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="年末总结" scheme="http://blog.DaPaoStudio.com/tags/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="rua" scheme="http://blog.DaPaoStudio.com/tags/rua/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第六次技术分享会</title>
     <link href="http://blog.DaPaoStudio.com/2018/12/03/6thMeet/"/>
     <id>http://blog.DaPaoStudio.com/2018/12/03/6thMeet/</id>
     <published>2018-12-03T13:33:07.000Z</published>
-    <updated>2018-12-03T14:07:35.825Z</updated>
+    <updated>2018-12-29T12:43:58.091Z</updated>
     
     <summary type="html">
     
@@ -33,9 +62,9 @@
       <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
       <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
     
       <category term="咕咕咕" scheme="http://blog.DaPaoStudio.com/tags/%E5%92%95%E5%92%95%E5%92%95/"/>
     
@@ -90,9 +119,9 @@
       <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
       <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
     
       <category term="咕咕咕" scheme="http://blog.DaPaoStudio.com/tags/%E5%92%95%E5%92%95%E5%92%95/"/>
     
@@ -115,9 +144,9 @@
       <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
       <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
     
       <category term="咕咕咕" scheme="http://blog.DaPaoStudio.com/tags/%E5%92%95%E5%92%95%E5%92%95/"/>
     
@@ -239,9 +268,9 @@
       <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
-    
       <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/tags/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
+    
+      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
     
   </entry>
   
@@ -272,7 +301,7 @@
     <link href="http://blog.DaPaoStudio.com/2018/08/31/SelfIntroduction/"/>
     <id>http://blog.DaPaoStudio.com/2018/08/31/SelfIntroduction/</id>
     <published>2018-08-30T18:40:30.000Z</published>
-    <updated>2018-11-30T03:18:51.085Z</updated>
+    <updated>2018-12-31T17:07:06.878Z</updated>
     
     <summary type="html">
     
@@ -287,7 +316,7 @@
 &lt;hr&gt;
 &lt;h1 id=&quot;关于这个博客&quot;&gt;&lt;a href=&quot;#关于这个博客&quot; class=&quot;headerlink&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于这个博客&quot; title=&quot;关于这个博客&quot;&gt;&lt;/a&gt;关于这个博客&lt;/h1&gt;&lt;p&gt;   大概会做一下SS::STA游戏组活动记录&lt;br&gt;&lt;br&gt;   偶尔会发一些生活随笔&lt;br&gt;&lt;br&gt;   如果有想写的辣鸡技术文章有可能也会post上来&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于我&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;&lt;div class=&quot;alert-green&quot;&gt;此部分上次更新时间 2018-11-30 11:40:22&lt;/div&gt;
+&lt;h1 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#关于我&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h1&gt;&lt;div class=&quot;alert-green&quot;&gt;此部分上次更新时间 2019-01-01 01:06:22&lt;/div&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;本名张伟，为了&lt;strong&gt;避免&lt;/strong&gt;被取“伟哥”这种低俗的外号，我选择给自己自封外号张大炮，所以大部分人都叫我大炮&lt;/p&gt;
@@ -300,11 +329,11 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;希望能做出真正好玩的国产游戏，目前在西安电子科技大学，软件学院。软院科协游戏三代目组长，西安电子科技大学Nova独游社创始人&lt;strong&gt;（实际上我是最菜的鶸&lt;/strong&gt;。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Visual Studio是&lt;strong&gt;宇宙最强IDE&lt;/strong&gt;，以及：目前只会有Unity的2D部分，打算学html、js、css。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Visual Studio是&lt;strong&gt;宇宙最强IDE&lt;/strong&gt;，以及：目前只会有Unity的2D部分，&lt;del&gt;打算学html、js、css。&lt;/del&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;喜欢听音乐，纯音乐、电音、摇滚、Rap、中文歌、英文歌、日语歌、8bit音乐我全都要，没用明显的倾向。晚上不戴耳机睡不着&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Steam 忠实用户兼Steam传教士、G胖的帮凶，库存已经到193（其实游戏时间只有600小时左右），目前主要玩Dota2&lt;strong&gt;（很菜）&lt;/strong&gt;、看风景的游戏、rougelike游戏还有一些优秀的独立游戏，17年6月购置switch，塞尔达传说：荒野之息是我目前最喜欢的游戏，&lt;strong&gt;没有之一&lt;/strong&gt;，室友买了PS4，能白嫖的阵营+1（逃。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Steam 忠实用户兼Steam传教士、G胖的帮凶，库存已经到&lt;del&gt;193&lt;/del&gt;226（其实游戏时间只有600小时左右），目前主要玩Dota2&lt;strong&gt;（很菜）&lt;/strong&gt;、看风景的游戏、rougelike游戏还有一些优秀的独立游戏，17年6月购置switch，塞尔达传说：荒野之息是我目前最喜欢的游戏，&lt;strong&gt;没有之一&lt;/strong&gt;，室友买了PS4，能白嫖的阵营+1（逃。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;如果你想和我一起玩游戏，我的 Steam ID 是 大炮，经常在线，但不经常玩游戏，而且号称&lt;strong&gt;西电鸽王&lt;/strong&gt;，极其擅长咕咕咕。&lt;/p&gt;
 &lt;/li&gt;
@@ -408,12 +437,12 @@
     <link href="http://blog.DaPaoStudio.com/2018/08/29/Ti/"/>
     <id>http://blog.DaPaoStudio.com/2018/08/29/Ti/</id>
     <published>2018-08-28T19:40:48.915Z</published>
-    <updated>2018-08-30T15:38:40.522Z</updated>
+    <updated>2018-12-29T10:15:29.861Z</updated>
     
     <summary type="html">
     
       &lt;h1 id=&quot;SS-STA-Game组福利题&quot;&gt;&lt;a href=&quot;#SS-STA-Game组福利题&quot; class=&quot;headerlink&quot; title=&quot;SS::STA Game组福利题&quot;&gt;&lt;/a&gt;SS::STA Game组福利题&lt;/h1&gt;&lt;h2 id=&quot;C-基础&quot;&gt;&lt;a href=&quot;#C-基础&quot; class=&quot;headerlink&quot; title=&quot;C#基础&quot;&gt;&lt;/a&gt;C#基础&lt;/h2&gt;&lt;p&gt;众所周知，贪吃蛇是早期最受欢迎的游戏之一。而要是需制作它，其中最重要的步骤就是当蛇吃到食物时，蛇身的伸长以及其随着蛇头的移动，现用两种方式实现上述功能，代码如下：&lt;/p&gt;
-&lt;p&gt;[C# Script]&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;73&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs C#&quot;&gt;using System.Collections;&lt;br&gt;&lt;br&gt;using System.Collections.Generic;&lt;br&gt;&lt;br&gt;using System.Linq;&lt;br&gt;&lt;br&gt;using UnityEngine;&lt;br&gt;&lt;br&gt;pubic class snake : MonoBehaviour&lt;br&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;br&gt;         public List&amp;lt;Transform&amp;gt;  bodylist= new List&amp;lt;Transform&amp;gt; ;&lt;br&gt;&lt;br&gt;         public GameObject snakebody;&lt;br&gt;&lt;br&gt;         public Vector3 headpos;&lt;br&gt;&lt;br&gt;         void Update ()&lt;br&gt;&lt;br&gt;         &amp;#123;&lt;br&gt;&lt;br&gt;                   if(foodeating)               //foodeating用来判定是否吃到食物，简略不表&lt;br&gt;&lt;br&gt;                           grow();&lt;br&gt;&lt;br&gt;                   move（）；&lt;br&gt;&lt;br&gt;         &amp;#125;&lt;br&gt;&lt;br&gt;        void move()&lt;br&gt;&lt;br&gt;        &amp;#123;&lt;br&gt;&lt;br&gt;                  headpos = this.transform.position;&lt;br&gt;&lt;br&gt;                  this.transform.Translate(new Vector3(x,y,z)); //x，y，z的正负判定简略不表&lt;br&gt;&lt;br&gt;                  if (bodylist.Count &amp;gt; 0)&lt;br&gt;&lt;br&gt;                 &amp;#123;&lt;br&gt;&lt;br&gt;                    //方法1&lt;br&gt;&lt;br&gt;                           bodylist.Last().position = headpos;&lt;br&gt;&lt;br&gt;                           bodylist.Insert(0, bodylist.Last());&lt;br&gt;&lt;br&gt;                           bodylist.RemoveAt(bodylist.Count - 1);&lt;br&gt;&lt;br&gt;                   //方法2&lt;br&gt;&lt;br&gt;                           for (int i = bodylist.Count - 2; i &amp;gt;= 0; i--)&lt;br&gt;&lt;br&gt;                                     bodylist[i + 1].position = bodylist[i].position;&lt;br&gt;&lt;br&gt;                           bodylist[0].position = headpos;&lt;br&gt;&lt;br&gt;                  &amp;#125;&lt;br&gt;&lt;br&gt;         &amp;#125;&lt;br&gt;&lt;br&gt;         void grow()&lt;br&gt;&lt;br&gt;         &amp;#123;&lt;br&gt;&lt;br&gt;                 GameObject body = Instantiate(snakebody,new Vector3(2000,2000,0),Quaternion.identity);   //新身体生成在屏幕外&lt;br&gt;&lt;br&gt;                 bodylist.Add(body.transform);&lt;br&gt;&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;[C# Script]&lt;br&gt;&lt;figure class=&quot;highlight CSharp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;73&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs CSharp&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;using&lt;/span&gt; System.Collections;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;using&lt;/span&gt; System.Collections.Generic;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;using&lt;/span&gt; System.Linq;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;using&lt;/span&gt; UnityEngine;&lt;br&gt;&lt;br&gt;pubic &lt;span class=&quot;hljs-keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;snake&lt;/span&gt; : &lt;span class=&quot;hljs-title&quot;&gt;MonoBehaviour&lt;/span&gt;&lt;br&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt; List&amp;lt;Transform&amp;gt;  bodylist= &lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; List&amp;lt;Transform&amp;gt; ;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt; GameObject snakebody;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt; Vector3 headpos;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;Update&lt;/span&gt; (&lt;span class=&quot;hljs-params&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;         &lt;/span&gt;&amp;#123;&lt;br&gt;&lt;br&gt;                   &lt;span class=&quot;hljs-keyword&quot;&gt;if&lt;/span&gt;(foodeating)               &lt;span class=&quot;hljs-comment&quot;&gt;//foodeating用来判定是否吃到食物，简略不表&lt;/span&gt;&lt;br&gt;&lt;br&gt;                           grow();&lt;br&gt;&lt;br&gt;                   move（）；&lt;br&gt;&lt;br&gt;         &amp;#125;&lt;br&gt;&lt;br&gt;        &lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;move&lt;/span&gt;(&lt;span class=&quot;hljs-params&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;        &lt;/span&gt;&amp;#123;&lt;br&gt;&lt;br&gt;                  headpos = &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.transform.position;&lt;br&gt;&lt;br&gt;                  &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.transform.Translate(&lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; Vector3(x,y,z)); &lt;span class=&quot;hljs-comment&quot;&gt;//x，y，z的正负判定简略不表&lt;/span&gt;&lt;br&gt;&lt;br&gt;                  &lt;span class=&quot;hljs-keyword&quot;&gt;if&lt;/span&gt; (bodylist.Count &amp;gt; &lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;)&lt;br&gt;&lt;br&gt;                 &amp;#123;&lt;br&gt;&lt;br&gt;                    &lt;span class=&quot;hljs-comment&quot;&gt;//方法1&lt;/span&gt;&lt;br&gt;&lt;br&gt;                           bodylist.Last().position = headpos;&lt;br&gt;&lt;br&gt;                           bodylist.Insert(&lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;, bodylist.Last());&lt;br&gt;&lt;br&gt;                           bodylist.RemoveAt(bodylist.Count - &lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;);&lt;br&gt;&lt;br&gt;                   &lt;span class=&quot;hljs-comment&quot;&gt;//方法2&lt;/span&gt;&lt;br&gt;&lt;br&gt;                           &lt;span class=&quot;hljs-keyword&quot;&gt;for&lt;/span&gt; (&lt;span class=&quot;hljs-keyword&quot;&gt;int&lt;/span&gt; i = bodylist.Count - &lt;span class=&quot;hljs-number&quot;&gt;2&lt;/span&gt;; i &amp;gt;= &lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;; i--)&lt;br&gt;&lt;br&gt;                                     bodylist[i + &lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;].position = bodylist[i].position;&lt;br&gt;&lt;br&gt;                           bodylist[&lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;].position = headpos;&lt;br&gt;&lt;br&gt;                  &amp;#125;&lt;br&gt;&lt;br&gt;         &amp;#125;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;grow&lt;/span&gt;(&lt;span class=&quot;hljs-params&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;         &lt;/span&gt;&amp;#123;&lt;br&gt;&lt;br&gt;                 GameObject body = Instantiate(snakebody,&lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; Vector3(&lt;span class=&quot;hljs-number&quot;&gt;2000&lt;/span&gt;,&lt;span class=&quot;hljs-number&quot;&gt;2000&lt;/span&gt;,&lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;),Quaternion.identity);   &lt;span class=&quot;hljs-comment&quot;&gt;//新身体生成在屏幕外&lt;/span&gt;&lt;br&gt;&lt;br&gt;                 bodylist.Add(body.transform);&lt;br&gt;&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
     
     </summary>
     
