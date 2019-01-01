@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2019-01-01T13:52:35.263Z</updated>
+  <updated>2019-01-01T14:19:45.415Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.DaPaoStudio.com/2018/12/31/SummaryofMy2018/"/>
     <id>http://blog.DaPaoStudio.com/2018/12/31/SummaryofMy2018/</id>
     <published>2018-12-31T14:02:56.000Z</published>
-    <updated>2019-01-01T13:52:35.263Z</updated>
+    <updated>2019-01-01T14:19:45.415Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,8 @@
 &lt;p&gt;Anyway，虽然2018年不像2017年那样有“高考”这个级别的影响人一生的事情在，但这几乎完全由我自己选择发展方向的一年对我影响依旧巨大。话不多说&lt;del&gt;（明明已经说一大堆了）&lt;/del&gt;，让我们进入正题&lt;br&gt;&lt;/p&gt;
     
     </summary>
+    
+      <category term="Review" scheme="http://blog.DaPaoStudio.com/categories/Review/"/>
     
     
       <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
