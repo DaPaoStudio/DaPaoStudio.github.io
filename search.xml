@@ -24,6 +24,75 @@
     </entry>
     
     <entry>
+      <title>诛心5</title>
+      <link href="/2019/07/14/%E8%AF%9B%E5%BF%835/"/>
+      <url>/2019/07/14/%E8%AF%9B%E5%BF%835/</url>
+      <content type="html"><![CDATA[<h1 id="CGJ作品-诛心5"><a href="#CGJ作品-诛心5" class="headerlink" title="[CGJ作品]诛心5"></a>[CGJ作品]诛心5</h1><h2 id="关于诛心5"><a href="#关于诛心5" class="headerlink" title="关于诛心5"></a>关于诛心5</h2><p>《诛心5》（又名《心你太软》）是一款在CiGA Game Jam 2019 西安站由队伍“牢不可破的联盟”开发的一款休闲游戏。</p><p>游戏讲述了一个因为感情被绿茶伤害后❤被伤害成△变得莫得感情的人如何拒绝来自一众爱慕者的告白的故事（仔细观察游戏内的背景即可发现）</p><p>玩家将在限定大小的空间里躲避并手刃掉一波又一波爱慕者们发射来的<strong>♡</strong>，没被手刃掉的❤会继续飞行并且在碰到墙壁后反弹，随着时间的推移❤发射的频率会越来越高，反弹的模式也会越来越难预测，被❤碰到会扣除一点生命值，吃到△可以回复一点生命值，角色的生命值归零后游戏结束<br><img src="/2019/07/14/诛心5/title.png" alt="我也不知道前四代去哪了"><br><a id="more"></a></p><h2 id="玩法"><a href="#玩法" class="headerlink" title="玩法"></a>玩法</h2><p><strong>WASD</strong> 键控制人物移动，<strong>J</strong> 键手刃掉面前的❤，在❤组成的枪林弹雨中活的尽量久一点，把你的名字留在排行榜里吧</p><p><img src="/2019/07/14/诛心5/ingame.png" alt="甚至有连击系统"></p><p><img src="/2019/07/14/诛心5/death.png" alt="致敬葛优的生无可恋脸"></p><p><img src="/2019/07/14/诛心5/end.png" alt="在现场有人把分数刷到4w分了，我却只能打到9000分"></p><h2 id="分工"><a href="#分工" class="headerlink" title="分工"></a>分工</h2><blockquote><p>Game Design: Dapao</p><p>Program: BoringFish、LywockeeZ </p><p>Art: Glacia</p><p>Music：Glacia</p><p>SFX: DaPao</p></blockquote><h2 id="开发工具"><a href="#开发工具" class="headerlink" title="开发工具"></a>开发工具</h2><p>Unity2019.1.8f1</p><h2 id="平台"><a href="#平台" class="headerlink" title="平台"></a>平台</h2><p><strong>Windows</strong></p><p><strong>MacOS</strong></p><h2 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a>项目地址</h2><p><a href="https://github.com/novaigc/TeamSovietCGJ2019" target="_blank" rel="noopener">https://github.com/novaigc/TeamSovietCGJ2019</a></p><p>Bug汇报直接提Issue或者联系<a href="mailto:dapaostudio@Foxmail.com" target="_blank" rel="noopener">dapaostudio@Foxmail.com</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://github.com/novaigc/TeamSovietCGJ2019/releases/tag/0.1" target="_blank" rel="noopener">https://github.com/novaigc/TeamSovietCGJ2019/releases/tag/0.1</a></p><h2 id="Post-Script"><a href="#Post-Script" class="headerlink" title="Post-Script"></a>Post-Script</h2><p>游戏内没有退出按键，退出请猛击<strong>Alt+F4</strong>或长按电源键</p>]]></content>
+      
+      <categories>
+          
+          <category> 作品集 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 丢人 </tag>
+            
+            <tag> GameJam作品 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>A.L.I.C.E 化身孤岛的鲸</title>
+      <link href="/2019/04/29/A-L-I-C-E/"/>
+      <url>/2019/04/29/A-L-I-C-E/</url>
+      <content type="html"><![CDATA[<h1 id="A-L-I-C-E"><a href="#A-L-I-C-E" class="headerlink" title="A.L.I.C.E"></a>A.L.I.C.E</h1><h2 id="关于A-L-I-C-E"><a href="#关于A-L-I-C-E" class="headerlink" title="关于A.L.I.C.E"></a>关于A.L.I.C.E</h2><p>A.L.I.C.E是一款3D视角的休闲游戏，游戏讲述了Alice——一条52Hz的鲸鱼和一直跟随他的研究员的故事，作为全世界最孤独的鲸鱼，Alice渴望摆脱孤独。在游戏中玩家将化身为Alice，探索一个个风格迥异的海洋世界，避开随着时间越来越多的垃圾，让自己积蓄一定的能量后踏上前往下一片海域的远行，一路北上，从加州沿海到阿拉斯加，从北太平洋到白令海峡，直到找到另外一头相似的鲸，摆脱那该死的孤独<br><img src="/2019/04/29/A-L-I-C-E/title.png" alt="我们把那头52Hz的鲸的故事做成了游戏"><br><a id="more"></a></p><h2 id="关于Alice："><a href="#关于Alice：" class="headerlink" title="关于Alice："></a>关于Alice：</h2><blockquote><p>​    Alice是一只鲸鱼，1989年被发现，1992年开始被追踪录音。在其他鲸鱼眼里，Alice就像是个哑巴。他多年没有一个同伴亲属或朋友，唱歌的时候没有人听见，难过的时候也没有人理睬。原因是这只鲸鱼的频率是52赫兹，而正常鲸鱼的频率只有15~25赫兹，他的频率一直与众不同，因此他也注定孤独一生。追踪记录显示，几十年的时间里，Alice一直在孤独歌唱着，从加州中部的温暖海域到北太平洋的刺骨洋流，一路迁徙一路寻找，却从来没有得到过任何回应。</p><p>​    人们想象他是一只孑然一身的鲸鱼，在大海中独自游动，说着无人听见的话，唱着无人懂得的歌。人们想象他毕生都在努力呼唤着自己的另一半，却始终没有回应。人们想象他是一支独一无二的号角，面对大洋深处，发出过去不曾有过、将来也不会再有的呐喊。</p></blockquote><h2 id="宣传片"><a href="#宣传片" class="headerlink" title="宣传片"></a>宣传片</h2><iframe src="//player.bilibili.com/player.html?aid=49596806&cid=86881208&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p><a href="https://www.bilibili.com/video/av49596806" target="_blank" rel="noopener">https://www.bilibili.com/video/av49596806</a></p><h2 id="分工"><a href="#分工" class="headerlink" title="分工"></a>分工</h2><p>Game Design: Dapao、BoringFish、Thirteen</p><p>Music&amp;SFX: DaPao、Thirteen、JahaoZhang</p><p>Program: BoringFish</p><p>Art&amp;Model: DaPao </p><p>PlayWright: Thirteen</p><p>CV: Meredith、OliverK、Thirteen</p><p>Instructor: WilsonZhu</p><h2 id="Stage-Windows"><a href="#Stage-Windows" class="headerlink" title="Stage: Windows"></a>Stage: Windows</h2><h1 id="特别注明"><a href="#特别注明" class="headerlink" title="特别注明"></a>特别注明</h1><p>因为年代久远太难寻找以及为了保证声音演出效果，本游戏中使用的鲸歌并非Alice的音频采样</p><p>Alice的旅程远不止从加州沿海到白令海峡，他穿越了西北通道从太平洋跨越冰封来到了大西洋，一路游到了以色列，他现在是否健在、是否寻找到了理解他的鲸鱼我们不得而知，受游戏设计所限我们做的与现实有些许出入，还望谅解</p><h2 id="Demo-Release-Day：-2019-04-15"><a href="#Demo-Release-Day：-2019-04-15" class="headerlink" title="Demo Release Day： 2019/04/15"></a>Demo Release Day： 2019/04/15</h2><p>下载地址：<a href="https://pan.baidu.com/s/10xV_AGlaE8aQdXzkPT3y2w" target="_blank" rel="noopener">https://pan.baidu.com/s/10xV_AGlaE8aQdXzkPT3y2w</a> 提取码 budd</p><h2 id="Post-Script"><a href="#Post-Script" class="headerlink" title="Post-Script"></a>Post-Script</h2><p>游戏内没有退出按键，退出请猛击<strong>Alt+F4</strong>或长按电源键</p>]]></content>
+      
+      <categories>
+          
+          <category> 作品集 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 丢人 </tag>
+            
+            <tag> 摸鱼 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>SaloonArena</title>
+      <link href="/2019/01/29/SaloonArena/"/>
+      <url>/2019/01/29/SaloonArena/</url>
+      <content type="html"><![CDATA[<h1 id="GGJ作品-SaloonArena客厅竞技场"><a href="#GGJ作品-SaloonArena客厅竞技场" class="headerlink" title="[GGJ作品]SaloonArena客厅竞技场"></a>[GGJ作品]SaloonArena客厅竞技场</h1><h2 id="关于客厅竞技场"><a href="#关于客厅竞技场" class="headerlink" title="关于客厅竞技场"></a>关于客厅竞技场</h2><p>SaloonArena是一款在Global Game Jam 2019上海虹口站由队伍“No Doves”开发的一款io类聚会游戏</p><p>假如家里有多台不同品牌的扫地机器人的话会发生什么呢？要知道现在的电子产品都是7天包退的！只有最具竞争力的机器人会被留下，其他机器人将难逃退货的风险。</p><p><img src="/2019/01/29/SaloonArena/cover.png" alt="麻烦各个扫地机器人厂家主动联系我们"></p><a id="more"></a><p>这次Game Jam题目中反复提到了一个关键词“家”，小组经过了一波头脑风暴后产生了大约15个大家都觉得有趣的idea，最终经过层层筛选我们锁定了“扫地机器人”这一居家产品，扫地机器人本身是为了我们的家进行服务了，服务结束后机器人需要回到自己的家——充电桩进行充电才能进行下一次的服务。<br>沿着这样的思路，我们的IO游戏Saloon Arena（客厅竞技场）诞生了，如今已经有四台机器人加入了战斗，选择心仪的机器人来取得胜利吧！</p><h2 id="玩法"><a href="#玩法" class="headerlink" title="玩法"></a>玩法</h2><p><img src="/2019/01/29/SaloonArena/feature.jpg" alt="选择功能各异的机体"></p><p><img src="/2019/01/29/SaloonArena/ingame.png" alt="在倒计时结束之前清扫尽可能多的垃圾"></p><p><img src="/2019/01/29/SaloonArena/control.png" alt="请配备两把键盘进行游玩"></p><p><img src="/2019/01/29/SaloonArena/ingame.png" alt="发射垃圾大炮也是会消耗的，一定要谨慎"></p><p><img src="/2019/01/29/SaloonArena/summary.png" alt="向主人证明自己的价值吧"></p><h2 id="分工"><a href="#分工" class="headerlink" title="分工"></a>分工</h2><blockquote><p>Game Design: Zeto、Dapao、『 』</p><p>Program: 缪缪、薛薛</p><p>Art: 锅炉</p><p>Sound: DaPao</p></blockquote><h2 id="开发工具"><a href="#开发工具" class="headerlink" title="开发工具"></a>开发工具</h2><p>Unity2018.4f1</p><p>Visual Studio 2017</p><h2 id="平台"><a href="#平台" class="headerlink" title="平台"></a>平台</h2><p><strong>Windows</strong></p><h2 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a>项目地址</h2><p><a href="https://github.com/DaPaoStudio/GameJam2019" target="_blank" rel="noopener">https://github.com/DaPaoStudio/GameJam2019</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>链接：<a href="https://pan.baidu.com/s/1aKBTR3qhZ3wEJDjKqoHyow" target="_blank" rel="noopener">https://pan.baidu.com/s/1aKBTR3qhZ3wEJDjKqoHyow</a><br>提取码：8pvv </p><h2 id="Post-Script"><a href="#Post-Script" class="headerlink" title="Post-Script"></a>Post-Script</h2><p>游戏内没有退出按键，退出请猛击<strong>Alt+F4</strong>或长按电源键</p><p><img src="/2019/01/29/SaloonArena/photo.jpg" alt="你看他们玩的多开心啊"></p>]]></content>
+      
+      <categories>
+          
+          <category> 作品集 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 丢人 </tag>
+            
+            <tag> GameJam作品 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>Summary of My 2018</title>
       <link href="/2018/12/31/SummaryofMy2018/"/>
       <url>/2018/12/31/SummaryofMy2018/</url>
@@ -63,9 +132,9 @@
       
         <tags>
             
-            <tag> 游戏组活动归档 </tag>
-            
             <tag> 丢人 </tag>
+            
+            <tag> 游戏组活动归档 </tag>
             
             <tag> 咕咕咕 </tag>
             
@@ -113,9 +182,9 @@
       
         <tags>
             
-            <tag> 游戏组活动归档 </tag>
-            
             <tag> 丢人 </tag>
+            
+            <tag> 游戏组活动归档 </tag>
             
             <tag> 咕咕咕 </tag>
             
@@ -138,9 +207,9 @@
       
         <tags>
             
-            <tag> 游戏组活动归档 </tag>
-            
             <tag> 丢人 </tag>
+            
+            <tag> 游戏组活动归档 </tag>
             
             <tag> 咕咕咕 </tag>
             
@@ -268,9 +337,9 @@
       
         <tags>
             
-            <tag> 丢人 </tag>
-            
             <tag> SSSTA游戏组 </tag>
+            
+            <tag> 丢人 </tag>
             
         </tags>
       
@@ -402,6 +471,13 @@
   
     
     <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<div class="alert-green">个人仍在快速学习中，此部分上次更新时间 2019-03-12 22:06:22</div><hr><h1 id="Nouthest"><a href="#Nouthest" class="headerlink" title="Nouthest"></a><a href="#Nouthest" title="Nouthest"></a>Nouthest</h1><p><strong><em>北极之北</em></strong></p><p><strong>Email: <a href="mailto:DaPaoStudio@foxmail.com" target="_blank" rel="noopener">DaPaoStudio@foxmail.com</a></strong></p><p><strong>Homepage: <a href="https://blog.dapaostudio.com/">大炮的部落格</a></strong></p><p><strong>GitHub: <a href="https://github.com/DaPaoStudio" target="_blank" rel="noopener">DaPaoStudio</a></strong></p><p><strong>Telegram: <a href="https://telegram.me/Nouthest/" target="_blank" rel="noopener">@Nouthest</a></strong></p><p><strong>Steam: <a href="https://steamcommunity.com/id/DaPaoStudio/" target="_blank" rel="noopener">@Nouthest</a></strong></p><p><strong>哔哩哔哩: <a href="https://space.bilibili.com/20997082/#/" target="_blank" rel="noopener">@Nouthest</a></strong></p><p><strong>Tel: +86 13259762653</strong></p><p><strong>Address: 西安市长安区西沣路266号</strong></p><hr><h1 id="About-This-Blog-关于此博客"><a href="#About-This-Blog-关于此博客" class="headerlink" title="About This Blog | 关于此博客"></a><a href="#About This Blog | 关于此博客" title="About This Blog | 关于此博客"></a>About This Blog | 关于此博客</h1><p>   里面会有一些SS::STA游戏组时期的活动记录<br><br>   也会有一些Nova独游社时期的大型活动总结<br><br>   偶尔会发一些生活随笔和总结以及一些读书笔记<br><br>   如果有想写的技术文章也会po上来</p><hr><h1 id="Self-Introduction-自我介绍"><a href="#Self-Introduction-自我介绍" class="headerlink" title="Self Introduction | 自我介绍"></a><a href="#Self Introduction | 自我介绍" title="Self Introduction | 自我介绍"></a>Self Introduction | 自我介绍</h1><p>   我叫张伟，来自西安电子科技大学计算机科学与技术学院，今年大二。<br>   我从小热爱游戏，在校期间以策划身份参与了数款游戏Demo的制作，参加了两次GameJam，还参加过两次Hackathon，担过任微软学生俱乐部活动部副部长以及软件学院大学生科技协会游戏组组长，并且创建并以社长身份经营了西安第一个游戏开发社团：Nova独游社。我喜欢计算机技术，用优雅的方式解决问题是我的毕生追求，未来的目标是提高编程水平的同时进一步提高策划的水平以期获得全流程独立开发能力。</p><hr><h1 id="Educational-Experience-教育经历"><a href="#Educational-Experience-教育经历" class="headerlink" title="Educational Experience | 教育经历"></a><a href="#Educational Experience | 教育经历" title="Educational Experience | 教育经历"></a>Educational Experience | 教育经历</h1><ul><li>2011/09-2014/06，杨新中学</li><li>2014/09-2017/06，临泉第一中学</li><li>2017/09-2021/06，[本科]西安电子科技大学-计算机科学与技术学院-软件工程专业</li><li>To Be Continue</li></ul><hr><h1 id="Skills-Tree-技能树"><a href="#Skills-Tree-技能树" class="headerlink" title="Skills Tree | 技能树"></a><a href="#Skills Tree | 技能树&quot;Skills Tree | 技能树&quot;"></a>Skills Tree | 技能树</h1><p><div class="alert-blue">技能树仍在快速生长中，此部分上次评估时间2019-03-07</div></p><hr><blockquote><table><thead><tr><th style="text-align:center">Coding</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">C#</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">C++</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">.NET/WPF</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">Lua</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Python</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">JavaScript</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Java</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Unity3D</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">Unreal4</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">Cocos Creator</td><td style="text-align:center">☆☆☆☆☆</td></tr></tbody></table></blockquote><hr><blockquote><table><thead><tr><th style="text-align:center">Media</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">Photoshop</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">Premiere</td><td style="text-align:center">★★☆☆☆</td></tr><tr><td style="text-align:center">After Effect</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">Lightroom</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">3ds Max</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Blender</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Aseprite</td><td style="text-align:center">★★☆☆☆</td></tr><tr><td style="text-align:center">MagicVoxel</td><td style="text-align:center">★★☆☆☆</td></tr><tr><td style="text-align:center">Fl Studio</td><td style="text-align:center">☆☆☆☆☆</td></tr></tbody></table></blockquote><hr><blockquote><table><thead><tr><th style="text-align:center">Game Design</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">玩法</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">系统</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">数值</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">文案</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">关卡</td><td style="text-align:center">★★★☆☆</td></tr></tbody></table></blockquote><hr><blockquote><table><thead><tr><th style="text-align:center">Others</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">MS Office</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">Markdown</td><td style="text-align:center">★★★★★</td></tr><tr><td style="text-align:center">Git</td><td style="text-align:center">★★☆☆☆</td></tr></tbody></table></blockquote><hr><blockquote><table><thead><tr><th style="text-align:center">Language</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">CET-4</td><td style="text-align:center">★★★☆☆ 476</td></tr><tr><td style="text-align:center">CET-6</td><td style="text-align:center">☆☆☆☆☆ N/A</td></tr><tr><td style="text-align:center">JLPT-N3</td><td style="text-align:center">☆☆☆☆☆ N/A</td></tr></tbody></table></blockquote><hr><h1 id="Community-Experience-社团经历"><a href="#Community-Experience-社团经历" class="headerlink" title="Community Experience | 社团经历"></a><a href="#Community Experience | 社团经历" title="Community Experience | 社团经历 "></a>Community Experience | 社团经历</h1><blockquote><ul><li>2018/06-2019/06 | 西安电子科技大学微软学生俱乐部活动部部长</li><li>2018/06-2019/06 | 西安电子科技大学软件学院大学生科学技术协会游戏组组长</li><li>2018/12-2020/06 | 西安电子科技大学NOVA独立游戏社创始人/社长</li></ul></blockquote><hr><h1 id="Project-Experience-项目经历"><a href="#Project-Experience-项目经历" class="headerlink" title="Project Experience |项目经历"></a><a href="#Project Experience |项目经历" title="Project Experience |项目经历 "></a>Project Experience |项目经历</h1><ol><li>作为新手游戏程序<ul><li><a href="https://github.com/DaPaoStudio/XidianDefender" target="_blank" rel="noopener">XidianDefender</a></li></ul></li><li>作为游戏策划<ul><li><a href="https://pan.baidu.com/s/1NMcVBeGxJXxROPxQyWWBKw" target="_blank" rel="noopener">熊孩子必须死</a> 提取码：muzh</li><li><a href="https://www.taptap.com/app/152475" target="_blank" rel="noopener">释郁</a></li><li><a href="https://github.com/DaPaoStudio/GameJam2019" target="_blank" rel="noopener">Saloon Arena 客厅竞技场</a></li></ul></li></ol><hr><h1 id="Honors-amp-Prizes-荣誉与获奖"><a href="#Honors-amp-Prizes-荣誉与获奖" class="headerlink" title="Honors &amp; Prizes | 荣誉与获奖"></a><a href="#Honors &amp; Prizes | 荣誉与获奖" title="Honors &amp; Prizes | 荣誉与获奖 "></a>Honors &amp; Prizes | 荣誉与获奖</h1><blockquote><ul><li>2017/12 | 2017微软Hackathon校园行西安站第三名</li><li>2018/04 | 2018软为清明Hackathon第二名</li><li>2019/01 | Global Game Jam 2019中国区上海虹口站最佳人气第二名 <a href="http://wanga.me/GGJ2019/detail?game=36" target="_blank" rel="noopener">Saloon Arena 客厅竞技场</a></li></ul></blockquote><hr><h1 id="Self-taught-Courses-自学课程"><a href="#Self-taught-Courses-自学课程" class="headerlink" title="Self-taught Courses | 自学课程"></a><a href="#Self-taught Courses | 自学课程" title="Self-taught Courses | 自学课程"></a>Self-taught Courses | 自学课程</h1><ol><li>阅读书籍<ul><li>策划类<ul><li>《通关！游戏设计之道》</li><li>《游戏改变世界》</li><li>《游戏设计的100个原理》</li><li>《游戏设计艺术》<strong>（阅读中</strong></li><li>《游戏设计的236个技巧》<strong>（阅读中</strong></li><li>《平衡掌控者：游戏数值战斗设计》<strong>（阅读中</strong></li></ul></li><li>技术类<ul><li>《Unity3D脚本编程》<strong>（阅读中</strong></li><li>《Unity5.x完全自学手册》<strong>（阅读中</strong></li></ul></li></ul></li><li>在线课程</li></ol><hr><h1 id="Game-Experience-游戏经历"><a href="#Game-Experience-游戏经历" class="headerlink" title="Game Experience | 游戏经历"></a><a href="#Game Experience | 游戏经历" title="Game Experience | 游戏经历 "></a>Game Experience | 游戏经历</h1><blockquote><ul><li>FC：其实是小霸王，曾经拥有60余张n合1卡带，emu618国治模拟精品屋全站FC/SFC/MD/GBA资源收藏家</li><li>MD：也曾拥有30余张MD卡带（后来和FC卡带被我爸扔河里了，机器也被砸了……）</li><li>GBA：玩的最多的是星之卡比、洛克人ZERO、合金弹头、口袋妖怪、牧场物语系列</li><li>QQ飞车：2008年3月的前几批玩家之一</li><li>LOL：游戏理解不足，手残，没什么好说的。</li><li>PSP：只玩过LocoRoco、英雄传说、皇牌空战</li><li>PC单机：详见我的Steam主页，比起3A大作更关注精美的独立作品（因为穷）</li><li>Switch：实体游戏玩过《塞尔达传说：旷野之息》、《超级马里奥：奥德赛》、《星之卡比：新星同盟》、《马里奥赛车》、《任天堂明星大乱斗》、《Just Dance》、《1,2switch》、<strong>《噗呦噗呦俄罗斯方块》</strong>、《超级炸弹人R》、《ARMS》、《喷射战士》（应该就这些了吧</li><li>PS4：因为是室友的所以只玩通关过《FLower》、《Flow》、《Journey》</li><li>Dota2：游戏理解提升中</li></ul></blockquote>]]></content>
+    </entry>
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -413,13 +489,6 @@
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[<div class="alert-green">个人仍在快速学习中，此部分上次更新时间 2019-03-12 22:06:22</div><hr><h1 id="Nouthest"><a href="#Nouthest" class="headerlink" title="Nouthest"></a><a href="#Nouthest" title="Nouthest"></a>Nouthest</h1><p><strong><em>北极之北</em></strong></p><p><strong>Email: <a href="mailto:DaPaoStudio@foxmail.com" target="_blank" rel="noopener">DaPaoStudio@foxmail.com</a></strong></p><p><strong>Homepage: <a href="https://blog.dapaostudio.com/">大炮的部落格</a></strong></p><p><strong>GitHub: <a href="https://github.com/DaPaoStudio" target="_blank" rel="noopener">DaPaoStudio</a></strong></p><p><strong>Telegram: <a href="https://telegram.me/Nouthest/" target="_blank" rel="noopener">@Nouthest</a></strong></p><p><strong>Steam: <a href="https://steamcommunity.com/id/DaPaoStudio/" target="_blank" rel="noopener">@Nouthest</a></strong></p><p><strong>哔哩哔哩: <a href="https://space.bilibili.com/20997082/#/" target="_blank" rel="noopener">@Nouthest</a></strong></p><p><strong>Tel: +86 13259762653</strong></p><p><strong>Address: 西安市长安区西沣路266号</strong></p><hr><h1 id="About-This-Blog-关于此博客"><a href="#About-This-Blog-关于此博客" class="headerlink" title="About This Blog | 关于此博客"></a><a href="#About This Blog | 关于此博客" title="About This Blog | 关于此博客"></a>About This Blog | 关于此博客</h1><p>   里面会有一些SS::STA游戏组时期的活动记录<br><br>   也会有一些Nova独游社时期的大型活动总结<br><br>   偶尔会发一些生活随笔和总结以及一些读书笔记<br><br>   如果有想写的技术文章也会po上来</p><hr><h1 id="Self-Introduction-自我介绍"><a href="#Self-Introduction-自我介绍" class="headerlink" title="Self Introduction | 自我介绍"></a><a href="#Self Introduction | 自我介绍" title="Self Introduction | 自我介绍"></a>Self Introduction | 自我介绍</h1><p>   我叫张伟，来自西安电子科技大学计算机科学与技术学院，今年大二。<br>   我从小热爱游戏，在校期间以策划身份参与了数款游戏Demo的制作，参加了两次GameJam，还参加过两次Hackathon，担过任微软学生俱乐部活动部副部长以及软件学院大学生科技协会游戏组组长，并且创建并以社长身份经营了西安第一个游戏开发社团：Nova独游社。我喜欢计算机技术，用优雅的方式解决问题是我的毕生追求，未来的目标是提高编程水平的同时进一步提高策划的水平以期获得全流程独立开发能力。</p><hr><h1 id="Educational-Experience-教育经历"><a href="#Educational-Experience-教育经历" class="headerlink" title="Educational Experience | 教育经历"></a><a href="#Educational Experience | 教育经历" title="Educational Experience | 教育经历"></a>Educational Experience | 教育经历</h1><ul><li>2011/09-2014/06，杨新中学</li><li>2014/09-2017/06，临泉第一中学</li><li>2017/09-2021/06，[本科]西安电子科技大学-计算机科学与技术学院-软件工程专业</li><li>To Be Continue</li></ul><hr><h1 id="Skills-Tree-技能树"><a href="#Skills-Tree-技能树" class="headerlink" title="Skills Tree | 技能树"></a><a href="#Skills Tree | 技能树&quot;Skills Tree | 技能树&quot;"></a>Skills Tree | 技能树</h1><p><div class="alert-blue">技能树仍在快速生长中，此部分上次评估时间2019-03-07</div></p><hr><blockquote><table><thead><tr><th style="text-align:center">Coding</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">C#</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">C++</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">.NET/WPF</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">Lua</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Python</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">JavaScript</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Java</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Unity3D</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">Unreal4</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">Cocos Creator</td><td style="text-align:center">☆☆☆☆☆</td></tr></tbody></table></blockquote><hr><blockquote><table><thead><tr><th style="text-align:center">Media</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">Photoshop</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">Premiere</td><td style="text-align:center">★★☆☆☆</td></tr><tr><td style="text-align:center">After Effect</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">Lightroom</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">3ds Max</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Blender</td><td style="text-align:center">☆☆☆☆☆</td></tr><tr><td style="text-align:center">Aseprite</td><td style="text-align:center">★★☆☆☆</td></tr><tr><td style="text-align:center">MagicVoxel</td><td style="text-align:center">★★☆☆☆</td></tr><tr><td style="text-align:center">Fl Studio</td><td style="text-align:center">☆☆☆☆☆</td></tr></tbody></table></blockquote><hr><blockquote><table><thead><tr><th style="text-align:center">Game Design</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">玩法</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">系统</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">数值</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">文案</td><td style="text-align:center">★☆☆☆☆</td></tr><tr><td style="text-align:center">关卡</td><td style="text-align:center">★★★☆☆</td></tr></tbody></table></blockquote><hr><blockquote><table><thead><tr><th style="text-align:center">Others</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">MS Office</td><td style="text-align:center">★★★☆☆</td></tr><tr><td style="text-align:center">Markdown</td><td style="text-align:center">★★★★★</td></tr><tr><td style="text-align:center">Git</td><td style="text-align:center">★★☆☆☆</td></tr></tbody></table></blockquote><hr><blockquote><table><thead><tr><th style="text-align:center">Language</th><th style="text-align:center">Level</th></tr></thead><tbody><tr><td style="text-align:center">CET-4</td><td style="text-align:center">★★★☆☆ 476</td></tr><tr><td style="text-align:center">CET-6</td><td style="text-align:center">☆☆☆☆☆ N/A</td></tr><tr><td style="text-align:center">JLPT-N3</td><td style="text-align:center">☆☆☆☆☆ N/A</td></tr></tbody></table></blockquote><hr><h1 id="Community-Experience-社团经历"><a href="#Community-Experience-社团经历" class="headerlink" title="Community Experience | 社团经历"></a><a href="#Community Experience | 社团经历" title="Community Experience | 社团经历 "></a>Community Experience | 社团经历</h1><blockquote><ul><li>2018/06-2019/06 | 西安电子科技大学微软学生俱乐部活动部部长</li><li>2018/06-2019/06 | 西安电子科技大学软件学院大学生科学技术协会游戏组组长</li><li>2018/12-2020/06 | 西安电子科技大学NOVA独立游戏社创始人/社长</li></ul></blockquote><hr><h1 id="Project-Experience-项目经历"><a href="#Project-Experience-项目经历" class="headerlink" title="Project Experience |项目经历"></a><a href="#Project Experience |项目经历" title="Project Experience |项目经历 "></a>Project Experience |项目经历</h1><ol><li>作为新手游戏程序<ul><li><a href="https://github.com/DaPaoStudio/XidianDefender" target="_blank" rel="noopener">XidianDefender</a></li></ul></li><li>作为游戏策划<ul><li><a href="https://pan.baidu.com/s/1NMcVBeGxJXxROPxQyWWBKw" target="_blank" rel="noopener">熊孩子必须死</a> 提取码：muzh</li><li><a href="https://www.taptap.com/app/152475" target="_blank" rel="noopener">释郁</a></li><li><a href="https://github.com/DaPaoStudio/GameJam2019" target="_blank" rel="noopener">Saloon Arena 客厅竞技场</a></li></ul></li></ol><hr><h1 id="Honors-amp-Prizes-荣誉与获奖"><a href="#Honors-amp-Prizes-荣誉与获奖" class="headerlink" title="Honors &amp; Prizes | 荣誉与获奖"></a><a href="#Honors &amp; Prizes | 荣誉与获奖" title="Honors &amp; Prizes | 荣誉与获奖 "></a>Honors &amp; Prizes | 荣誉与获奖</h1><blockquote><ul><li>2017/12 | 2017微软Hackathon校园行西安站第三名</li><li>2018/04 | 2018软为清明Hackathon第二名</li><li>2019/01 | Global Game Jam 2019中国区上海虹口站最佳人气第二名 <a href="http://wanga.me/GGJ2019/detail?game=36" target="_blank" rel="noopener">Saloon Arena 客厅竞技场</a></li></ul></blockquote><hr><h1 id="Self-taught-Courses-自学课程"><a href="#Self-taught-Courses-自学课程" class="headerlink" title="Self-taught Courses | 自学课程"></a><a href="#Self-taught Courses | 自学课程" title="Self-taught Courses | 自学课程"></a>Self-taught Courses | 自学课程</h1><ol><li>阅读书籍<ul><li>策划类<ul><li>《通关！游戏设计之道》</li><li>《游戏改变世界》</li><li>《游戏设计的100个原理》</li><li>《游戏设计艺术》<strong>（阅读中</strong></li><li>《游戏设计的236个技巧》<strong>（阅读中</strong></li><li>《平衡掌控者：游戏数值战斗设计》<strong>（阅读中</strong></li></ul></li><li>技术类<ul><li>《Unity3D脚本编程》<strong>（阅读中</strong></li><li>《Unity5.x完全自学手册》<strong>（阅读中</strong></li></ul></li></ul></li><li>在线课程</li></ol><hr><h1 id="Game-Experience-游戏经历"><a href="#Game-Experience-游戏经历" class="headerlink" title="Game Experience | 游戏经历"></a><a href="#Game Experience | 游戏经历" title="Game Experience | 游戏经历 "></a>Game Experience | 游戏经历</h1><blockquote><ul><li>FC：其实是小霸王，曾经拥有60余张n合1卡带，emu618国治模拟精品屋全站FC/SFC/MD/GBA资源收藏家</li><li>MD：也曾拥有30余张MD卡带（后来和FC卡带被我爸扔河里了，机器也被砸了……）</li><li>GBA：玩的最多的是星之卡比、洛克人ZERO、合金弹头、口袋妖怪、牧场物语系列</li><li>QQ飞车：2008年3月的前几批玩家之一</li><li>LOL：游戏理解不足，手残，没什么好说的。</li><li>PSP：只玩过LocoRoco、英雄传说、皇牌空战</li><li>PC单机：详见我的Steam主页，比起3A大作更关注精美的独立作品（因为穷）</li><li>Switch：实体游戏玩过《塞尔达传说：旷野之息》、《超级马里奥：奥德赛》、《星之卡比：新星同盟》、《马里奥赛车》、《任天堂明星大乱斗》、《Just Dance》、《1,2switch》、<strong>《噗呦噗呦俄罗斯方块》</strong>、《超级炸弹人R》、《ARMS》、《喷射战士》（应该就这些了吧</li><li>PS4：因为是室友的所以只玩通关过《FLower》、《Flow》、《Journey》</li><li>Dota2：游戏理解提升中</li></ul></blockquote>]]></content>
     </entry>
     
   
