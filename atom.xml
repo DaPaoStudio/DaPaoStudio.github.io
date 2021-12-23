@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>大炮&#39;s Blog</title>
   
-  <subtitle>艺术、生活与爱</subtitle>
+  <subtitle>Let&#39;s Make Some Games</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2020-02-23T05:54:26.789Z</updated>
+  <updated>2021-12-23T20:32:01.568Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -17,11 +17,118 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2021游戏记录</title>
+    <link href="http://blog.DaPaoStudio.com/2021/12/24/2021%E6%B8%B8%E6%88%8F%E8%AE%B0%E5%BD%95/"/>
+    <id>http://blog.DaPaoStudio.com/2021/12/24/2021游戏记录/</id>
+    <published>2021-12-23T19:35:50.000Z</published>
+    <updated>2021-12-23T20:32:01.568Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;2021年游戏记录&quot;&gt;&lt;a href=&quot;#2021年游戏记录&quot; class=&quot;headerlink&quot; title=&quot;2021年游戏记录&quot;&gt;&lt;/a&gt;2021年游戏记录&lt;/h1&gt;&lt;p&gt;今年一共通关了18款游戏，虽然还是少了点，但比起暗无天日般的2020年，这个数据已经比较可以接受了。比起过去以通关为目标的游戏体验，今年开始慢慢尝试了精通某款游戏，尝试拿到白金将被，比如星际拓荒和年底的哈迪斯，也会尝试对游戏进行一些拆解。不管怎么样，希望明年可以做得更好吧，也许愿一下早日拿到offer。&lt;/p&gt;
+&lt;p&gt;今年PGN最佳游戏颁给《星际拓荒》&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2021/12/24/2021游戏记录/星际拓荒.png&quot; alt=&quot;Pao Games Network Game of the Year&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PGN最佳角色扮演游戏：《战神4》&lt;/li&gt;
+&lt;li&gt;PGN最佳音乐：《八方旅人》&lt;/li&gt;
+&lt;li&gt;PGN最佳动作游戏：《哈迪斯》&lt;/li&gt;
+&lt;li&gt;PGN最佳合作游戏：《双人成行》&lt;/li&gt;
+&lt;li&gt;PGN最佳独立游戏：《登山短记》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;未来还会继续把库里堆积成山的游戏慢慢消化吸收，共勉。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Review" scheme="http://blog.DaPaoStudio.com/categories/Review/"/>
+    
+    
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哈迪斯简单体验报告</title>
+    <link href="http://blog.DaPaoStudio.com/2021/12/23/%E5%93%88%E8%BF%AA%E6%96%AF%E7%AE%80%E5%8D%95%E4%BD%93%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    <id>http://blog.DaPaoStudio.com/2021/12/23/哈迪斯简单体验报告/</id>
+    <published>2021-12-22T21:43:42.000Z</published>
+    <updated>2021-12-22T21:43:42.152Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>左右五千年</title>
+    <link href="http://blog.DaPaoStudio.com/2021/12/23/%E5%B7%A6%E5%8F%B3%E4%BA%94%E5%8D%83%E5%B9%B4/"/>
+    <id>http://blog.DaPaoStudio.com/2021/12/23/左右五千年/</id>
+    <published>2021-12-22T21:42:39.000Z</published>
+    <updated>2021-12-22T21:42:39.668Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>明日方舟简单系统拆分</title>
+    <link href="http://blog.DaPaoStudio.com/2021/04/13/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%AE%80%E5%8D%95%E7%B3%BB%E7%BB%9F%E6%8B%86%E5%88%86/"/>
+    <id>http://blog.DaPaoStudio.com/2021/04/13/明日方舟简单系统拆分/</id>
+    <published>2021-04-12T21:43:29.000Z</published>
+    <updated>2021-12-23T20:32:32.101Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;明日方舟系统拆解与分析&quot;&gt;&lt;a href=&quot;#明日方舟系统拆解与分析&quot; class=&quot;headerlink&quot; title=&quot;明日方舟系统拆解与分析&quot;&gt;&lt;/a&gt;明日方舟系统拆解与分析&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;张伟 大炮 &lt;a href=&quot;mailto:Dapaostudio@Foxmail.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Dapaostudio@Foxmail.com&lt;/a&gt;&lt;br&gt;编写时间：2021/04/13&lt;br&gt;体验时间：2019年9月-2020年1月&lt;br&gt;这是一篇非常早期的分析文，里面有诸多点没有发现可以深挖（诸如资源投放的比例与玩家分层），未来有空会尝试体验最新的版本并进行更深一步的分析&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;一、游戏简介&quot;&gt;&lt;a href=&quot;#一、游戏简介&quot; class=&quot;headerlink&quot; title=&quot;一、游戏简介&quot;&gt;&lt;/a&gt;一、游戏简介&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2021/04/13/明日方舟简单系统拆分/title.png&quot; alt=&quot;游戏封面&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="作品集" scheme="http://blog.DaPaoStudio.com/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
+    
+    
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+      <category term="游戏分析" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>西山居SEED训练营最佳游戏-破碎境界</title>
+    <link href="http://blog.DaPaoStudio.com/2020/08/12/%E7%A0%B4%E7%A2%8E%E5%A2%83%E7%95%8C/"/>
+    <id>http://blog.DaPaoStudio.com/2020/08/12/破碎境界/</id>
+    <published>2020-08-11T21:43:04.000Z</published>
+    <updated>2021-12-23T20:33:10.048Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;西山居SEED训练营最佳游戏-破碎境界&quot;&gt;&lt;a href=&quot;#西山居SEED训练营最佳游戏-破碎境界&quot; class=&quot;headerlink&quot; title=&quot;[西山居SEED训练营最佳游戏-破碎境界 ]&quot;&gt;&lt;/a&gt;[西山居SEED训练营最佳游戏-破碎境界 ]&lt;/h1&gt;&lt;h2 id=&quot;关于破碎境界&quot;&gt;&lt;a href=&quot;#关于破碎境界&quot; class=&quot;headerlink&quot; title=&quot;关于破碎境界&quot;&gt;&lt;/a&gt;关于破碎境界&lt;/h2&gt;&lt;p&gt;​    《破碎境界》是在2019年西山居SEED训练营由F组未来网吧在21天内开发出来的一款独特的纵版卷轴双人合作Roguelike游戏，合作的双方一方负责战斗和保护，另外一方负责辅助战斗和装备挖掘获取。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2020/08/12/破碎境界/title.png&quot; alt=&quot;游戏封面&quot;&gt;&lt;/p&gt;
+&lt;p&gt;​        游戏被中间的镜子分为左右个对称的区域，左侧玩家负责采集和战斗辅助，右侧玩家负责战斗，左侧玩家在采集过程中会获得各种各样的道具，也可能开出来小怪，开出来的小怪会锁定攻击左侧玩家，需要右侧的玩家优先处理。左右玩家共享血量和受伤后的击退。在Boss阶段部分机制需要左侧玩家辅助处理。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="作品集" scheme="http://blog.DaPaoStudio.com/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
+    
+    
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+      <category term="Roguelike" scheme="http://blog.DaPaoStudio.com/tags/Roguelike/"/>
+    
+  </entry>
+  
+  <entry>
     <title>About My 2019</title>
     <link href="http://blog.DaPaoStudio.com/2020/02/15/AboutMy2019/"/>
     <id>http://blog.DaPaoStudio.com/2020/02/15/AboutMy2019/</id>
     <published>2020-02-15T14:18:16.000Z</published>
-    <updated>2020-02-23T05:54:26.789Z</updated>
+    <updated>2020-03-18T04:55:55.983Z</updated>
     
     <summary type="html">
     
@@ -214,9 +321,9 @@
       <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
       <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
     
       <category term="咕咕咕" scheme="http://blog.DaPaoStudio.com/tags/%E5%92%95%E5%92%95%E5%92%95/"/>
     
@@ -271,9 +378,9 @@
       <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
       <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
     
       <category term="咕咕咕" scheme="http://blog.DaPaoStudio.com/tags/%E5%92%95%E5%92%95%E5%92%95/"/>
     
@@ -296,9 +403,9 @@
       <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
     
     
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
       <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+    
+      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
     
       <category term="咕咕咕" scheme="http://blog.DaPaoStudio.com/tags/%E5%92%95%E5%92%95%E5%92%95/"/>
     
@@ -369,7 +476,7 @@
     <link href="http://blog.DaPaoStudio.com/2018/09/25/InterviewQuestion/"/>
     <id>http://blog.DaPaoStudio.com/2018/09/25/InterviewQuestion/</id>
     <published>2018-09-25T11:39:17.000Z</published>
-    <updated>2018-09-27T07:55:39.723Z</updated>
+    <updated>2021-12-23T19:01:47.811Z</updated>
     
     <summary type="html">
     
@@ -381,119 +488,6 @@
     
     
       <category term="游戏组面试题" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《疯狂的程序员》摘录</title>
-    <link href="http://blog.DaPaoStudio.com/2018/09/25/MadCoder/"/>
-    <id>http://blog.DaPaoStudio.com/2018/09/25/MadCoder/</id>
-    <published>2018-09-25T10:23:06.000Z</published>
-    <updated>2018-09-27T07:56:00.371Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;《疯狂的程序员》摘录&quot;&gt;&lt;a href=&quot;#《疯狂的程序员》摘录&quot; class=&quot;headerlink&quot; title=&quot;《疯狂的程序员》摘录&quot;&gt;&lt;/a&gt;《疯狂的程序员》摘录&lt;/h1&gt;&lt;p&gt;  &lt;img src=&quot;/2018/09/25/MadCoder/Madcoder.png&quot; alt=&quot;《疯狂的程序员》&quot;&gt;&lt;br&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="他山之石" scheme="http://blog.DaPaoStudio.com/categories/%E4%BB%96%E5%B1%B1%E4%B9%8B%E7%9F%B3/"/>
-    
-    
-      <category term="自我定位" scheme="http://blog.DaPaoStudio.com/tags/%E8%87%AA%E6%88%91%E5%AE%9A%E4%BD%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>18级科协游戏组宣传标语</title>
-    <link href="http://blog.DaPaoStudio.com/2018/09/03/3rdGeneration/"/>
-    <id>http://blog.DaPaoStudio.com/2018/09/03/3rdGeneration/</id>
-    <published>2018-09-03T09:02:45.000Z</published>
-    <updated>2018-09-03T09:25:33.124Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;创造你所向往的世界-不再遥不可及&quot;&gt;&lt;a href=&quot;#创造你所向往的世界-不再遥不可及&quot; class=&quot;headerlink&quot; title=&quot;创造你所向往的世界 不再遥不可及&quot;&gt;&lt;/a&gt;创造你所向往的世界 不再遥不可及&lt;/h1&gt;&lt;p&gt;   &lt;img src=&quot;/2018/09/03/3rdGeneration/Game组.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
-    
-    
-      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
-    
-      <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/tags/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>提问的智慧</title>
-    <link href="http://blog.DaPaoStudio.com/2018/08/31/Wisdom-of-questioning/"/>
-    <id>http://blog.DaPaoStudio.com/2018/08/31/Wisdom-of-questioning/</id>
-    <published>2018-08-31T15:57:09.000Z</published>
-    <updated>2018-09-01T06:57:16.298Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;From:&lt;a href=&quot;http://www.dianbo.org/9238&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;搜索研究院&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;提问的智慧&quot;&gt;&lt;a href=&quot;#提问的智慧&quot; class=&quot;headerlink&quot; title=&quot;提问的智慧&quot;&gt;&lt;/a&gt;提问的&lt;font color=&quot;#FF0000&quot;&gt;智慧&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;D.H.Grand[nOBODY/Ginux]　2001&lt;/p&gt;
-&lt;p&gt;　　在黑客世界里，当提出一个技术问题时，你能得到怎样的回答？这取决于挖出答案的难度，同样取决于你提问的方法。本指南旨在帮助你提高发问技巧，以获取你最想要的答案。&lt;br&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="他山之石" scheme="http://blog.DaPaoStudio.com/categories/%E4%BB%96%E5%B1%B1%E4%B9%8B%E7%9F%B3/"/>
-    
-    
-      <category term="提问" scheme="http://blog.DaPaoStudio.com/tags/%E6%8F%90%E9%97%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自我介绍</title>
-    <link href="http://blog.DaPaoStudio.com/2018/08/31/SelfIntroduction/"/>
-    <id>http://blog.DaPaoStudio.com/2018/08/31/SelfIntroduction/</id>
-    <published>2018-08-30T18:40:30.000Z</published>
-    <updated>2020-02-25T14:20:06.940Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;div class=&quot;alert-green&quot;&gt;个人仍在快速学习中，此部分上次更新时间 2020-02-23 22:06:22&lt;/div&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&quot;Nouthest&quot;&gt;&lt;a href=&quot;#Nouthest&quot; class=&quot;headerlink&quot; title=&quot;Nouthest&quot;&gt;&lt;/a&gt;Nouthest&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;北极之北&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Email: &lt;a href=&quot;mailto:DaPaoStudio@foxmail.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;DaPaoStudio@foxmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GitHub: &lt;a href=&quot;https://github.com/DaPaoStudio&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;DaPaoStudio&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Telegram: &lt;a href=&quot;https://telegram.me/Nouthest/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@Nouthest&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Steam: &lt;a href=&quot;https://steamcommunity.com/id/DaPaoStudio/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@Nouthest&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;哔哩哔哩: &lt;a href=&quot;https://space.bilibili.com/20997082/#/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@Nouthest&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tel: +86 13259762653&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Address: 西安市长安区西沣路266号&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;/2018/08/31/SelfIntroduction/alpinecat.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&quot;About-This-Blog-关于此博客&quot;&gt;&lt;a href=&quot;#About-This-Blog-关于此博客&quot; class=&quot;headerlink&quot; title=&quot;About This Blog | 关于此博客&quot;&gt;&lt;/a&gt;About This Blog | 关于此博客&lt;/h1&gt;&lt;p&gt;​  里面会有一些SS::STA游戏组时期的活动记录&lt;br&gt;&lt;br&gt;​ 也会有一些Nova独游社时期的大型活动总结&lt;br&gt;&lt;br&gt;​ 偶尔会发一些生活随笔和总结以及一些读书笔记&lt;br&gt;&lt;br&gt;​ 如果有想写的游戏分析评测或者技术文章也会po上来&lt;br&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://blog.DaPaoStudio.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="自我介绍" scheme="http://blog.DaPaoStudio.com/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>总算是搭好了</title>
-    <link href="http://blog.DaPaoStudio.com/2018/08/31/complete/"/>
-    <id>http://blog.DaPaoStudio.com/2018/08/31/complete/</id>
-    <published>2018-08-30T18:23:18.000Z</published>
-    <updated>2018-08-30T18:44:20.627Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;一直想自己搭个博客&quot;&gt;&lt;a href=&quot;#一直想自己搭个博客&quot; class=&quot;headerlink&quot; title=&quot;一直想自己搭个博客&quot;&gt;&lt;/a&gt;一直想自己搭个博客&lt;/h1&gt;&lt;p&gt;##总算是在升大二之前花三天断断续续完成了&lt;br&gt;&lt;br&gt;  55555，完全不会web去DIY博客真的难&lt;br&gt;   &lt;img src=&quot;/2018/08/31/complete/watercat.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
     
   </entry>
   
