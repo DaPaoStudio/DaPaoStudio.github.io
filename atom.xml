@@ -80,7 +80,7 @@
     <link href="http://blog.DaPaoStudio.com/2021/12/14/%E5%B7%A6%E5%8F%B3%E4%BA%94%E5%8D%83%E5%B9%B4/"/>
     <id>http://blog.DaPaoStudio.com/2021/12/14/左右五千年/</id>
     <published>2021-12-13T21:42:39.000Z</published>
-    <updated>2021-12-25T17:49:55.615Z</updated>
+    <updated>2021-12-25T17:57:53.052Z</updated>
     
     <summary type="html">
     
@@ -177,7 +177,7 @@
     <link href="http://blog.DaPaoStudio.com/2020/02/07/%E6%97%A5%E9%A3%9F%E8%AE%B0/"/>
     <id>http://blog.DaPaoStudio.com/2020/02/07/日食记/</id>
     <published>2020-02-07T13:17:27.000Z</published>
-    <updated>2020-02-20T18:38:02.322Z</updated>
+    <updated>2021-12-25T17:59:45.099Z</updated>
     
     <summary type="html">
     
@@ -189,8 +189,6 @@
     
       <category term="Life" scheme="http://blog.DaPaoStudio.com/categories/Life/"/>
     
-    
-      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
     
       <category term="烹饪" scheme="http://blog.DaPaoStudio.com/tags/%E7%83%B9%E9%A5%AA/"/>
     
@@ -230,7 +228,7 @@
     <link href="http://blog.DaPaoStudio.com/2019/07/14/%E8%AF%9B%E5%BF%835/"/>
     <id>http://blog.DaPaoStudio.com/2019/07/14/诛心5/</id>
     <published>2019-07-14T12:57:44.000Z</published>
-    <updated>2019-07-29T14:00:29.229Z</updated>
+    <updated>2021-12-25T18:01:02.378Z</updated>
     
     <summary type="html">
     
@@ -243,7 +241,7 @@
       <category term="作品集" scheme="http://blog.DaPaoStudio.com/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
     
     
-      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
     
       <category term="GameJam作品" scheme="http://blog.DaPaoStudio.com/tags/GameJam%E4%BD%9C%E5%93%81/"/>
     
@@ -254,7 +252,7 @@
     <link href="http://blog.DaPaoStudio.com/2019/04/29/ALICE/"/>
     <id>http://blog.DaPaoStudio.com/2019/04/29/ALICE/</id>
     <published>2019-04-29T12:57:26.000Z</published>
-    <updated>2019-07-29T13:58:17.759Z</updated>
+    <updated>2021-12-25T18:00:40.713Z</updated>
     
     <summary type="html">
     
@@ -265,9 +263,7 @@
       <category term="作品集" scheme="http://blog.DaPaoStudio.com/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
     
     
-      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
-    
-      <category term="摸鱼" scheme="http://blog.DaPaoStudio.com/tags/%E6%91%B8%E9%B1%BC/"/>
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
     
   </entry>
   
@@ -276,7 +272,7 @@
     <link href="http://blog.DaPaoStudio.com/2019/01/29/SaloonArena/"/>
     <id>http://blog.DaPaoStudio.com/2019/01/29/SaloonArena/</id>
     <published>2019-01-29T12:57:09.000Z</published>
-    <updated>2019-07-29T14:03:23.933Z</updated>
+    <updated>2021-12-25T18:01:14.151Z</updated>
     
     <summary type="html">
     
@@ -289,7 +285,7 @@
       <category term="作品集" scheme="http://blog.DaPaoStudio.com/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
     
     
-      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
     
       <category term="GameJam作品" scheme="http://blog.DaPaoStudio.com/tags/GameJam%E4%BD%9C%E5%93%81/"/>
     
@@ -300,7 +296,7 @@
     <link href="http://blog.DaPaoStudio.com/2018/12/31/SummaryofMy2018/"/>
     <id>http://blog.DaPaoStudio.com/2018/12/31/SummaryofMy2018/</id>
     <published>2018-12-31T14:02:56.000Z</published>
-    <updated>2019-12-24T06:52:28.664Z</updated>
+    <updated>2021-12-25T17:58:56.363Z</updated>
     
     <summary type="html">
     
@@ -318,11 +314,7 @@
       <category term="Review" scheme="http://blog.DaPaoStudio.com/categories/Review/"/>
     
     
-      <category term="丢人" scheme="http://blog.DaPaoStudio.com/tags/%E4%B8%A2%E4%BA%BA/"/>
-    
       <category term="年末总结" scheme="http://blog.DaPaoStudio.com/tags/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/"/>
-    
-      <category term="rua" scheme="http://blog.DaPaoStudio.com/tags/rua/"/>
     
   </entry>
   
