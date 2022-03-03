@@ -171,7 +171,7 @@
     </header>
     <main class="post-main" itemprop="articleBody">
       <h1 id="明日方舟系统拆解与分析"><a href="#明日方舟系统拆解与分析" class="headerlink" title="明日方舟系统拆解与分析"></a>明日方舟系统拆解与分析</h1><blockquote>
-<p>张伟 大炮 <a href="mailto:Dapaostudio@Foxmail.com" target="_blank" rel="noopener">Dapaostudio@Foxmail.com</a><br>编写时间：2021/04/13<br>体验时间：2019年9月-2020年1月<br>这是一篇非常早期的分析文，里面有诸多点没有发现可以深挖（诸如资源投放的比例与玩家分层），未来有空会尝试体验最新的版本并进行更深一步的分析</p>
+<p>张伟 大炮 <a href="mailto:Dapaostudio@Foxmail.com" target="_blank" rel="noopener">Dapaostudio@Foxmail.com</a><br>编写时间：2021/04/13<br>最后更新时间：2022/02/28<br>体验时间：2019年9月-2020年1月<br>这是一篇非常早期的分析文，里面有诸多点没有发现可以深挖（诸如资源投放的比例与玩家分层），未来有空会尝试体验最新的版本并进行更深一步的分析</p>
 </blockquote>
 <h1 id="一、游戏简介"><a href="#一、游戏简介" class="headerlink" title="一、游戏简介"></a>一、游戏简介</h1><p><img src="/2021/04/13/明日方舟简单系统拆分/Title.png" alt=""></p>
 <a id="more"></a>
@@ -180,7 +180,8 @@
 <p><img src="/2021/04/13/明日方舟简单系统拆分/2019.png" alt="2019年流水 数据来源:国产二次元手游观察"></p>
 <p><img src="/2021/04/13/明日方舟简单系统拆分/2020.png" alt="2020年流水 数据来源:国产二次元手游观察"></p>
 <p>从以上数据可以明显看出明日方舟在国产二次元手游中的地位和影响力，其在国内二次元细分领域极为残酷的市场竞争中仍能保持较为出色的盈利能力</p>
-<h1 id="二、游戏体验"><a href="#二、游戏体验" class="headerlink" title="二、游戏体验"></a>二、游戏体验</h1><p>笔者在此款游戏上停留的时间不长，主要体验时间2019年9月-2020年1月，累计充值约1000元，弃坑契机是20年初太忙了，抽不出时间每天在罗德岛上班打卡，并非游戏本身问题。</p>
+<h1 id="二、游戏体验"><a href="#二、游戏体验" class="headerlink" title="二、游戏体验"></a>二、游戏体验</h1><p>明日方舟作为一款二次元卡牌策略塔防手游，凭借独特的“官能风”立绘在美术上深深吸引住了玩家的眼球，作为一款塔防游戏，其职业、部署与再部署、攻击方向与阻挡数的创新设定在降低游戏门槛的同时也极大提升了游戏的策略深度。同时其也是少见的世界观架构机器完整、细节考究、彩蛋随处可见、角色性格鲜明有特点的强剧情手游。给人带来非常独特的策略塔防游戏体验</p>
+<p>笔者在此款游戏上停留的时间不长，主要体验时间2019年9月-2020年1月，累计充值约1000元，弃坑契机是20年初太忙了，抽不出时间每天在罗德岛上班打卡，并非游戏本身问题。</p>
 <p>这次趁着两周年活动又回来看看，顺便也是希望对这款体验较为深入的游戏进行一定的拆解也分析，记录一下自己的愚见。以下是我的一些游戏截图。</p>
 <p><img src="/2021/04/13/明日方舟简单系统拆分/名片.png" alt="名片"></p>
 <p><img src="/2021/04/13/明日方舟简单系统拆分/干员1.png" alt="干员按稀有度展示"></p>
@@ -192,16 +193,28 @@
 <p>游戏采用了简化的三货币经济体系，中级的HC合成玉仅能用于干员寻访，高级到中级货币单向流通且比例固定，高级HC至纯源石主要来自RMB购买，游戏中存在大量回收低级SC龙门币的消耗点。三级货币的存在使得玩家需要随时调整自身龙门币、合成玉、源石的储备，这样比起双货币一来提高了官方对经济系统的调控能力，二来对付费玩家而言除了正常消耗的货币之外形成了一个更大的冗余空间，吸纳了更多的付费。</p>
 <p>除了三级货币之外，游戏内还设置了特色货币（合约币、家具零件）、废弃货币（各种凭证）、社交货币（信用点）、活动货币等，进一步提高了经济系统的稳定程度可控程度。</p>
 <h2 id="1-战斗系统"><a href="#1-战斗系统" class="headerlink" title="1.战斗系统"></a>1.战斗系统</h2><p><img src="/2021/04/13/明日方舟简单系统拆分/战斗系统.png" alt=""></p>
-<p>明日方舟的战斗系统由五种关卡组成，这些关卡吸纳了玩家全部的体力值，是消耗玩家时间和精力的主要系统。其中剧情关卡除了可以推动剧情叙事，也是养成材料的主要来源。</p>
+<p>明日方舟的战斗系统由五种关卡组成，这些关卡吸纳了玩家全部的体力值，是消耗玩家时间和精力的主要系统。其中剧情关卡除了可以推动剧情叙事，也是养成材料的主要来源。关卡的奖励与完成度有关，完美通关后可以获得一枚源石并解锁代理指挥和突袭模式，这样的设计软性对玩家的练度设置了一定要求同时又不至于让玩家太容易卡关。突袭模式的存在也使得玩家在练度培养上去后低等级关卡仍有游玩的必要性，在不进行大量更新的情况下提升了玩家的平均游戏时间。</p>
 <p><img src="/2021/04/13/明日方舟简单系统拆分/关卡展示.png" alt=""></p>
 <p>物资筹备关卡是游戏内产出经验书、基建材料、SC、技能书、采购凭证最高效的关卡，剧情关卡虽然也会产出这些材料，但单位体力获得的材料期望远远低于物资筹备关卡，所以在养成期间物资筹备关卡也是玩家体力主要消耗点之一。值得一提的是，物资筹备与芯片搜索都有这固定且错开的开放时间，干员的养成材料又是较为全面的，所以玩家很难一天内做完所有的事，这样的设计让玩家在每周的不同时间都有着登录游戏的需求，这在潜移默化中培养了玩家的习惯，也进一步拉高了游戏的留存。</p>
 <p><img src="/2021/04/13/明日方舟简单系统拆分/资源本.png" alt=""></p>
 <p>芯片搜索关卡同样是错开开放的，精英化高星级干员对芯片的需求同样不菲，所以这也是玩家的体力消耗点之一。</p>
 <p><img src="/2021/04/13/明日方舟简单系统拆分/进阶本.png" alt=""></p>
-<p>剿灭任务关卡是游戏内除每日和每周任务外产出合成玉最多的关卡，但期望来看其每周只需要消耗120左右的体力，并不是游戏主要的体力消耗点，但因为圆满完成难度较高奖励也较吸引人，充当了玩家养成的目标之一。</p>
+<p>剿灭任务关卡是游戏内除每日和每周任务外产出合成玉最多的关卡，但期望来看其每周只需要消耗120左右的体力，并不是游戏主要的体力消耗点，但因为圆满完成难度较高奖励也较吸引人，充当了玩家早期养成的目标之一。</p>
 <p><img src="/2021/04/13/明日方舟简单系统拆分/剿灭本.png" alt=""></p>
 <p>活动关卡则是占用玩家在活动期间的时间，除了补充叙事之外，也通过较为新颖的关卡设计和机制设计来给玩家在漫长的养成过程中辅以调剂，保持游戏的热度和新鲜感。部分活动关卡难度较高，充当了核心养成的出口和目标，用以让玩家检验自己的养成强度。</p>
 <p><img src="/2021/04/13/明日方舟简单系统拆分/活动本.png" alt=""></p>
+<p>值得一提的是，在后续的更新中，明日方舟对游戏内往期活动关卡进行了开放，部分活动需要使用活动解锁道具来进行解锁。往期的活动关卡在游玩时不会获得当时的绝版道具，但会获得新的代币用以兑换合成玉和养成道具。考虑到二次元手游中的活动关卡一般不会复刻，对往期活动的开放处理一来让新玩家有了更多的资源来源，让错过了活动的玩家可以通过活动补足剧情内容，二来也可以让制作的内容得到更加充分的利用，唯一的缺点可能就是游戏包体会因此变大了吧</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/事相结晶.jpg" alt=""></p>
+<p>在后续的更新中鹰角又对战斗系统做了一些扩充</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/战斗系统续.png" alt=""></p>
+<p>首先是成为常驻玩法的危机合约。考虑到对老玩家而言，剿灭作战对练度的检验已经越发疲软，剿灭作战的完成奖励也基本被完全领取，缺乏养成的驱动力，这种情况下一个能兼顾新玩家和老玩家体验的玩法就显得尤为需要。危机合约本质上是对玩家练度的数值化检验，并且这个危机等级在中底等级时对新玩家是非常友好的，在高危机等级时才会较为考验练度。新玩家完成中等程度的危机等级可以拿到足够多的奖励，更多的奖励也会持续新玩家精进自身的养成。而老玩家又可以挑战较高的危机难度，同时进一步精进自身的练度甚至为了打到更高的练度去抽特定的干员。</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/危机合约.jpg" alt=""></p>
+<p>作为重度的Rogue游戏爱好者，集成战略即Rogue模式是我在游玩期间十分期待的一种玩法。因为明日方舟的版本更新相对于玩家消耗是极其慢的，即使有养成这一天坑可以让玩家每天上线游玩，但长期的长草还是容易让忍受不了枯燥上班体验的玩家流失。Rogue这一通过随机性和BD来产生不重复游戏体验的模式就显得尤为合适。考虑到手游玩家普遍较为轻度，明日方舟的Rogue也做了较为轻度的设计，即存在局外养成（Roguelite），干员的属性也和自己的养成进度挂钩，允许每关失误的白盾，提供观光模式等，吸引玩家逐步熟悉规则并转化为较为重度的玩家。</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/Rogue.jpg" alt=""></p>
+<p>最后是干员的专属关卡：悖论模拟。悖论模拟关卡采用了类似于TR教学关的固定编队模式，关卡设计上很像象棋围棋里的“残局”，只有合理使用该干员才能通过关卡，可以很好地在玩家获取新干员时让玩家快速上手干员的使用方式，了解干员的适用场景。</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/真娘们儿斩.jpg" alt="食我真娘们儿斩"></p>
+<p>悖论模拟的存在弥补了过去因为缺乏干员教程导致需要在获得新干员后看技能介绍看不懂，不得不去外部网站查攻略的不足。同时也通过专属关卡补足了干员的设定和背景故事，使世界观更充实。</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/悖论模拟.jpg" alt=""></p>
 <h2 id="2-干员系统"><a href="#2-干员系统" class="headerlink" title="2.干员系统"></a>2.干员系统</h2><p><img src="/2021/04/13/明日方舟简单系统拆分/干员系统.png" alt=""></p>
 <p>明日方舟作为一款塔防游戏，天然拥有门槛较低的特性，智能机时代最早的一批游戏中不乏大量塔防游戏。但如果让我给明日方舟打Tag的话，我会将其归类为二次元即时策略塔防养成游戏，为什么混进去了一个即时策略的Tag呢，那就不得不提明日方舟干员系统的职业、阻挡数和再部署这一设定。</p>
 <p>职业设定的引入既降低了玩家门槛，同时也为游戏增加了深度。而攻击方向和再部署这一设定则需要玩家灵活根据关卡敌人分布安排不同干员不同时间的的不同位置来守住敌人。阻挡数的设定则避开了传统塔防中只能堆高坚果当肉盾炮灰的尴尬局面，避免了关卡只能增加更多路线来提高难度、也避开了输出只顾输出，重装只顾堆防御的角色定位死板的问题，提高了关卡设计的多样性，也提高了干员设计的多样性。</p>
@@ -223,7 +236,7 @@
 <p>明日方舟的基建系统相较于其他游戏，与核心系统的联系更强一些，除了制造站和贸易站的资源货币产出会流入游戏经济系统外，一方面加工站合成高级强化材料的作用在干员精英化的过程中也肩负着不可替代的作用，训练室也是干员技能等级专精不可缺少的部分，办公室刷新免费卡池标签的作用也广受好评，另一方面基建系统所需要的材料高度依赖战斗系统的产出，这些联系使得基建系统并不是独立于游戏之外的玩法，而是与游戏其他系统环环相扣的一部分。此外，游戏初期基建系统承担了玩家的体力主要消耗点的作用，对于免费玩家而言也提供了他们每天上线的驱动力（大炼碳素，快速完成罗德岛现代化）。</p>
 <h2 id="6-任务系统"><a href="#6-任务系统" class="headerlink" title="6.任务系统"></a>6.任务系统</h2><p><img src="/2021/04/13/明日方舟简单系统拆分/任务系统.png" alt=""></p>
 <p>任务系统仍是大部分二次元手游的老一套：即新手任务、日常任务、周常任务、主线任务，虽然简单老套但不得不说这是一个经受时间考验的模式，很好的达成了任务系统的设计目标。</p>
-<p>明日方舟一个广受赞誉的优点是其非强制且温和的新手引导，相较于其他游戏手把手（还不能跳过）的暴力保姆式新手引导，明日方舟的新手引导由任务系统驱动，由特制的关卡和特定系统实现，通过八个阶段的见习任务循序渐进地引导玩家。目前手游玩家都有了一定的游戏基础，且游戏的目标用户群泛ACG群体对游戏的了解也远高于大众水平，适量减少强制的新手引导有助于提高玩家的满意度。</p>
+<p>明日方舟一个广受赞誉的优点是其非强制且温和的新手引导，相较于其他游戏手把手（还不能跳过）的暴力保姆式新手引导，明日方舟的新手引导由任务系统驱动，由<strong>特制的关卡</strong>和特定系统实现，通过八个阶段的见习任务循序渐进地引导玩家。目前手游玩家都有了一定的游戏基础，且游戏的目标用户群泛ACG群体对游戏的了解也远高于大众水平，适量减少强制的新手引导有助于提高玩家的满意度。</p>
 <h1 id="四、游戏核心循环"><a href="#四、游戏核心循环" class="headerlink" title="四、游戏核心循环"></a>四、游戏核心循环</h1><p>简单分析完系统之后，想要对整个游戏有更深入的认识，还要去分析系统之间的关系。</p>
 <h2 id="系统输入与输出"><a href="#系统输入与输出" class="headerlink" title="系统输入与输出"></a>系统输入与输出</h2><p><img src="/2021/04/13/明日方舟简单系统拆分/系统联系.png" alt=""><br>首先通过货币和材料的消耗和产出，可以将各个系统作为一个黑箱，只关注其的输入输出。</p>
 <h2 id="核心系统关系"><a href="#核心系统关系" class="headerlink" title="核心系统关系"></a>核心系统关系</h2><p><img src="/2021/04/13/明日方舟简单系统拆分/明日方舟核心循环.png" alt=""></p>
@@ -236,7 +249,7 @@
 <p>AimMap是我们推测的系统的主要设计目的图，我们把主要设计目的概括为盈利、留存和社交，以上是笔者根据游戏核心循环所推断的系统设计目的图。</p>
 <h1 id="五、付费与营销策略"><a href="#五、付费与营销策略" class="headerlink" title="五、付费与营销策略"></a>五、付费与营销策略</h1><p>游戏的付费点基本可以概括为三个方向：付费购买体力、付费抽干员、付费购买皮肤。</p>
 <h2 id="1-付费购买体力"><a href="#1-付费购买体力" class="headerlink" title="1.付费购买体力"></a>1.付费购买体力</h2><p>从以上的核心循环图不难看出明日方舟的各个系统是高度围绕体力的设计，体力几乎是所有系统的系统输入，也就是说游戏内的绝大多数行为都涉及到了大量体力的消耗，意图是让玩家使用金钱加速时间推动养成节奏，这样的设计虽然不逼肝但想肝就难免要氪。从零养满一个六星干员期望的体力值是12000点，单靠游戏6分钟一跳的自然体力回复就需要50天，即使算上系统奖励的货币和材料，也需要30天以上，自然回复的体力远远不足以支撑玩家对养成的需求。这样一方面可以防止玩家过快的消耗游戏内容，一方面也可以带动玩家的消费。</p>
-<h2 id="2-付费寻访干员"><a href="#2-付费寻访干员" class="headerlink" title="2.付费寻访干员"></a>2.付费寻访干员</h2><p>付费寻访干员是明日方舟的主要付费点之一，不同于其他游戏一个角色需要抽到六次才能养满，明日方舟的干员抽到一个时玩家的目标基本就达到了，我们稍经计算，玩家在不氪金的情况下每28天靠系统产出的合成玉只有12000点，双UP卡池抽到6星合成玉期望为30000，如果想抽到特定六星干员，合成玉期望则高达120000，常驻非UP池的消耗期望就上天了，面对这10倍的差值，想要收集到心仪干员，玩家就必须进行付费。</p>
+<h2 id="2-付费寻访干员"><a href="#2-付费寻访干员" class="headerlink" title="2.付费寻访干员"></a>2.付费寻访干员</h2><p>付费寻访干员是明日方舟的主要付费点之一，不同于其他游戏一个角色需要抽到六次才能养满，明日方舟的干员抽到一个时玩家的目标基本就达到了，我们稍经计算，玩家在不氪金的情况下每30天靠系统产出的合成玉只有16000点，双UP卡池抽到6星合成玉期望为30000，如果想抽到特定六星干员，合成玉期望则高达120000，常驻非UP池的消耗期望就上天了，面对这10倍的差值，想要收集到心仪干员，玩家就必须进行付费。</p>
 <p>以抽卡的形式而非明码标价的方式获得干员以及使用持续时间有限的UP卡池供玩家寻访，最大幅度地利用了玩家的赌徒心理、损失厌恶心理、沉没成本心理，诱导玩家冲动消费。</p>
 <h2 id="3-付费购买皮肤"><a href="#3-付费购买皮肤" class="headerlink" title="3.付费购买皮肤"></a>3.付费购买皮肤</h2><p>作为玩家与干员情感连接强到一定程度后的必然产物，充值购买皮肤也是游戏中较为重要的付费点，单论源石价格，每个皮肤价格在90RMB左右，皮肤的限时售卖特性也很好的利用了玩家的损失厌恶心理。</p>
 <h2 id="付费形式"><a href="#付费形式" class="headerlink" title="付费形式"></a>付费形式</h2><ul>
@@ -324,10 +337,22 @@
 </tr>
 </tbody>
 </table>
-<h2 id="付费层"><a href="#付费层" class="headerlink" title="付费层"></a>付费层</h2><p>我们粗略将玩家分为小R、中R和大R。</p>
-<p>小R一般指每个月只冲30元月卡的，这部分玩家最多，其DARPU为1元，负责游戏的兜底收入，也负责撑起游戏的活跃度。</p>
-<p>中R除了会购买新手组合包和新手寻访包之外，还会每月购买每月寻访包和月卡，这部分玩家组成明日方舟收入的中坚力量，这部分玩家的DARPU为7元左右。</p>
-<p>大R则是在搬空组合包商店的同时，也会直接充值源石的玩家，这部分玩家会大量的使用RMB购买体力，其DARPU一般大于20，这部分玩家数量较少，但其付费也在明日方舟的收入中占有重要地位。</p>
+<h2 id="付费层、投放与回收"><a href="#付费层、投放与回收" class="headerlink" title="付费层、投放与回收"></a>付费层、投放与回收</h2><p>明日方舟中付费货币的回收渠道主要为干员寻访、干员皮肤，体力购买、家具购买为可选项。</p>
+<p>统计了开服以来的寻访池子时间可以基本得出，每月开放1次新干员单UP池和两次复刻干员双UP池。如果希望获得新干员，按照2%概率来算，抽出新干员的期望为100抽，也就是等价于<strong>60000</strong>合成玉的消耗，当然受到保底机制的影响以及玩家对抽卡的规划，实际上不可能每个卡池都要准备这么多。这个数值只是计算各个层级玩家付费货币缺口的前提。</p>
+<p>我们粗略将玩家分为0氪、小R、中R和大R。同时以下对付费货币投放的统计只计算游戏内的循环玩法，不计算更新补偿、活动关卡等，寻访许可按照600合成玉进行折算，对于新手玩家而言可能存在拿不齐循环奖励的情况，但考虑到新手玩家往往可以获得大量首次完成某目标时给予的额外奖励，所以不对新手玩家做更多的区分。</p>
+<h3 id="0氪玩家"><a href="#0氪玩家" class="headerlink" title="0氪玩家"></a>0氪玩家</h3><p>对于0氪玩家，其在每月完成所有的日常、周常、签到、招募、兑换活动后，大约可以获得<strong>16000</strong>合成玉，折合约27抽。</p>
+<p>其收入来源如图所示：</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/合成玉0.png" alt=""></p>
+<p>因为0氪玩家每月收入与新干员期望的四万余合成玉的差值，导致了他们在新干员寻访出现时无法第一时间追卡池，即使长期攒下合成玉和需要较长的积蓄周期，能坚持数月的<strong>延迟满足</strong>是极其罕见的，长期缺乏合成玉的现状与频繁的干员推出共同造成的受限体验会潜移默化地促使他们进行付费破冰，转变为小R或中R，或者放弃六星干员，去追求五星的替代品寻找自己合适的打法。</p>
+<h3 id="小R玩家"><a href="#小R玩家" class="headerlink" title="小R玩家"></a>小R玩家</h3><p>小R一般指每个月只冲30元月卡的，这部分玩家最多，其DARPU为1元，负责游戏的兜底收入，也负责撑起游戏的活跃度。除了上述的16400合成玉，其通过月卡进行30日的活跃可额外获得7080合成玉，即总共约<strong>24000</strong>合成玉，折算为40抽。其收入来源如图所示：</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/合成玉30.png" alt=""></p>
+<p>大量玩家充值月卡可以很好的让游戏有一笔基础收入，让游戏活下来。但仅仅是活下来，在整个游戏生命周期的时间尺度上，并不足以Cover住的研发开销，是只能喝一口肉汤的水平。所以小R玩家的24000合成玉也完全无法保证每个月获得一个六星干员，就更不用说获得每个月的全新6星干员了。在频繁的强力目标干员的退出或复刻的轰炸下，部分玩家会选择继续提升付费，去购买每月寻访包成为中R。</p>
+<h3 id="中R玩家"><a href="#中R玩家" class="headerlink" title="中R玩家"></a>中R玩家</h3><p>中R除了会购买新手组合包和新手寻访包之外，还会每月购买每月寻访包和月卡，这部分玩家组成明日方舟收入的中坚力量，这部分玩家的DARPU为7元左右。其每月收入合成玉大约<strong>37000</strong>，折算约60抽。其收入来源如图所示：</p>
+<p><img src="/2021/04/13/明日方舟简单系统拆分/合成玉198.png" alt=""></p>
+<p>考虑到对大部分玩家而言，并不是每个6星干员在玩家阵容中都是必须的，每月37000合成玉的收入足以应对多数情况下的卡池投放节奏。绝大多数玩家会停留在这一层面，但在活动限定池子等诱惑下，亦会使部分玩家选择去使用首冲双倍或者购买活动期间出售的新组合包，做更进一步的付费升级。</p>
+<h3 id="中R投放总览"><a href="#中R投放总览" class="headerlink" title="中R投放总览"></a>中R投放总览</h3><p><img src="/2021/04/13/明日方舟简单系统拆分/合成玉总览.png" alt=""></p>
+<p>可以从上方的产出分布图中获知从0氪到中R之间各个付费层级的每月合成玉产出来源分布。</p>
+<h3 id="大R玩家"><a href="#大R玩家" class="headerlink" title="大R玩家"></a>大R玩家</h3><p>大R则是在搬空组合包商店的同时，也会直接充值源石的玩家，这部分玩家会大量的使用RMB购买体力，其DARPU一般大于20，这部分玩家数量较少，但其付费也在明日方舟的收入中占有重要地位。</p>
 <p>总的来说，明日方舟的付费设计较为合理，面向小R中R和大R都有对应的商品，部分六星卡每月都会在轮换提供给玩家使用保底黄票进行兑换，总体的付费体验较好。</p>
 <h1 id="六、优劣分析与个人建议"><a href="#六、优劣分析与个人建议" class="headerlink" title="六、优劣分析与个人建议"></a>六、优劣分析与个人建议</h1><p>基本聊完了明日方舟的系统设计，最后让我们以笔者对游戏的愚见和建议结尾。</p>
 <h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><ul>
@@ -372,19 +397,60 @@
 </ul>
 </li>
 <li>体力耗尽后的玩法不足<ul>
-<li>现在危机合约常驻了</li>
+<li>危机合约常驻</li>
+<li>Rogue玩法常驻</li>
 <li>但还是在体力很快耗尽后玩家没有事情做</li>
 </ul>
 </li>
 </ul>
-<h2 id="个人建议"><a href="#个人建议" class="headerlink" title="个人建议"></a>个人建议</h2><ol>
-<li><p>增加游戏模式，尤其是增加体力耗尽后的游戏模式，保持新鲜感<br>如若可以长期提供以原本游戏内容为核心的关卡编辑器、UGC关卡、增加复玩性较高的Rogue关卡、攻防互换关卡、小游戏关卡（参见植物大战僵尸）、在模式多一些之后可以再轮换多种游戏模式，玩家在长草期的体验会好很多。</p>
+<h2 id="个人建议与建议反思"><a href="#个人建议与建议反思" class="headerlink" title="个人建议与建议反思"></a>个人建议与建议反思</h2><ol>
+<li>增加游戏模式，尤其是增加体力耗尽后的游戏模式，保持新鲜感<br>如若可以长期提供以原本游戏内容为核心的关卡编辑器、UGC关卡、增加复玩性较高的Rogue关卡、攻防互换关卡、小游戏关卡（参见植物大战僵尸）、在模式多一些之后可以再轮换多种游戏模式，玩家在长草期的体验会好很多。<ol>
+<li>为什么YJ没有做关卡编辑器和UGC<ol>
+<li>面向大众的关卡编辑器的实现难度问题</li>
+<li>互联网的1-9-90理论，即只有1%的人是内容的产出者</li>
+<li>UGC内容的法律风险（动物森友会被下架）</li>
+</ol>
 </li>
-<li><p>增强与玩家的联系<br>制作组可以多通过直播和论坛的方式与玩家面对面交流，或者增加问卷、投票、专用反馈渠道等开放给玩家，增强制作组运营方与玩家的联系。</p>
+<li>为什么没有做Rogue关卡<ol>
+<li>塔防的游戏模式能在给玩家明确预告的情况下在关卡上可以随机的点不多</li>
+<li>不经预告随机出怪又会削弱玩家在游玩过程中的学习和成长，是要不得的设计。</li>
+<li>关卡和怪物随机组合的设计，可能会形成死局带来糟糕的体验</li>
+<li>本质上为了保证随机性还是要制作足够多的关卡</li>
+<li>在产能有限的情况下，可能生产力有限供给到主线内容的制作上了</li>
+<li>2022年，常驻了。</li>
+</ol>
 </li>
-<li><p>增加文创产品的研发和推广投入<br>增加装饰品、手办玩偶、低价周边产品的投入和销售，让明日方舟的游戏文化渗透到玩家的现实生活之中，增强玩家的游戏记忆。</p>
+<li>为什么没做攻防互换、小游戏关卡<ol>
+<li>攻防互换、小游戏这个是跟游戏整体的气氛不搭，而且产出新的游戏机制需要大量时间成本</li>
+<li>小游戏和攻防互换本质上还是一次性体验型关卡，无法解决内容消耗完毕后的长草期问题</li>
+<li>未来有UGC编辑器时或可以考虑</li>
+</ol>
+</li>
+<li>为什么没有做无尽模式关卡<ol>
+<li>已经有类似设计目的的模式：危机合约</li>
+<li>无尽模式容易造成新老玩家差距过大</li>
+<li>无尽模式受众较为有限，门槛高</li>
+</ol>
+</li>
+<li>为什么不做游戏模式的轮换<ol>
+<li>一来模式太少，二来即使轮换了模式，也需要跟上次轮换时有不一样的地图之类</li>
+<li>产能跟不上</li>
+</ol>
 </li>
 </ol>
+</li>
+<li>增强与玩家的联系<br>制作组可以多通过直播和论坛的方式与玩家面对面交流，或者增加问卷、投票、专用反馈渠道等开放给玩家，增强制作组运营方与玩家的联系。<ol>
+<li>有了很大改善</li>
+</ol>
+</li>
+<li>增加文创产品的研发和推广投入<br>增加装饰品、手办玩偶、低价周边产品的投入和销售，让明日方舟的游戏文化渗透到玩家的现实生活之中，增强玩家的游戏记忆。<ol>
+<li>有了，但也不多</li>
+</ol>
+</li>
+</ol>
+<h2 id="写在2022年"><a href="#写在2022年" class="headerlink" title="写在2022年"></a>写在2022年</h2><p>时隔接近一年又回头看这篇文章，登回游戏再次审视了一圈，发现在这期间明日方舟开放了额外的一种战斗类型：悖论模拟，并且将过去的活动玩法：危机合约与集成战略作为常驻玩法，危机合约也做了一些调整，更新了大量的危机合约关卡并且加入了轮换制度。活动与支线关卡也通过一些方式常驻在了游戏中，供玩家们挑战游玩。总的来说，除了一些运营节奏外，明日方舟这个游戏还是在不断进步之中的。二创环境变差这种事情不好评价…… 毕竟现在的互联网再也不是过去那个可以自由冲浪的纯粹的互联网了，想必早年致力于推动互联网技术的先行者们看到现在的互联网现状，也会很失望吧。</p>
+<p>之前认为明日方舟的劣势，有些还依然存在，例如数值膨胀，新干员过强等。作为一个已经运营了接近三年的PVE游戏，目前的角色数值膨胀倒也还能在接受范围之内。接着就是游戏内容量消耗过快的问题，这个鹰角也从多个方面去尝试解决了：一来从核心上提高产能，相比于2019年，新内容的推出速度得到了较大的提升，二来也通过危机合约的常驻和更新、高难度剿灭作战的更新、以及Rogue玩法的常驻与轮换，得到了很好的改善。现在的明日方舟不至于像之前那样，主线推完之后每天上线体力用光就无事可做，愿意的话可以在危机合约和Rogue里沉浸几个小时，给了玩家选择的权力。</p>
+<p>祝愿每个认真对待玩家对待产品的制作组都能有好结果。</p>
 
     </main>
     <footer class="post-footer">
@@ -503,7 +569,7 @@
     <hr>
     <div class="post-toc sidebar-item" id="toc-div">
       <div><i class="fas fa-list-ol"></i>文章目录</div>
-      <div class="post-toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#明日方舟系统拆解与分析"><span class="toc-text">明日方舟系统拆解与分析</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#一、游戏简介"><span class="toc-text">一、游戏简介</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#二、游戏体验"><span class="toc-text">二、游戏体验</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#三、系统简单拆解分析"><span class="toc-text">三、系统简单拆解分析</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#0-货币系统"><span class="toc-text">0.货币系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#1-战斗系统"><span class="toc-text">1.战斗系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-干员系统"><span class="toc-text">2.干员系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-商店系统"><span class="toc-text">3.商店系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4-抽卡系统"><span class="toc-text">4.抽卡系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#5-基建系统"><span class="toc-text">5.基建系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#6-任务系统"><span class="toc-text">6.任务系统</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#四、游戏核心循环"><span class="toc-text">四、游戏核心循环</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#系统输入与输出"><span class="toc-text">系统输入与输出</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#核心系统关系"><span class="toc-text">核心系统关系</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#干员系统核心循环"><span class="toc-text">干员系统核心循环</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#TargetMap"><span class="toc-text">TargetMap</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AimMap"><span class="toc-text">AimMap</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#五、付费与营销策略"><span class="toc-text">五、付费与营销策略</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#1-付费购买体力"><span class="toc-text">1.付费购买体力</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-付费寻访干员"><span class="toc-text">2.付费寻访干员</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-付费购买皮肤"><span class="toc-text">3.付费购买皮肤</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#付费形式"><span class="toc-text">付费形式</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#付费层"><span class="toc-text">付费层</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#六、优劣分析与个人建议"><span class="toc-text">六、优劣分析与个人建议</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#优势"><span class="toc-text">优势</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#劣势"><span class="toc-text">劣势</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#个人建议"><span class="toc-text">个人建议</span></a></li></ol></li></ol></div>
+      <div class="post-toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#明日方舟系统拆解与分析"><span class="toc-text">明日方舟系统拆解与分析</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#一、游戏简介"><span class="toc-text">一、游戏简介</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#二、游戏体验"><span class="toc-text">二、游戏体验</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#三、系统简单拆解分析"><span class="toc-text">三、系统简单拆解分析</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#0-货币系统"><span class="toc-text">0.货币系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#1-战斗系统"><span class="toc-text">1.战斗系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-干员系统"><span class="toc-text">2.干员系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-商店系统"><span class="toc-text">3.商店系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4-抽卡系统"><span class="toc-text">4.抽卡系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#5-基建系统"><span class="toc-text">5.基建系统</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#6-任务系统"><span class="toc-text">6.任务系统</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#四、游戏核心循环"><span class="toc-text">四、游戏核心循环</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#系统输入与输出"><span class="toc-text">系统输入与输出</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#核心系统关系"><span class="toc-text">核心系统关系</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#干员系统核心循环"><span class="toc-text">干员系统核心循环</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#TargetMap"><span class="toc-text">TargetMap</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#AimMap"><span class="toc-text">AimMap</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#五、付费与营销策略"><span class="toc-text">五、付费与营销策略</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#1-付费购买体力"><span class="toc-text">1.付费购买体力</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-付费寻访干员"><span class="toc-text">2.付费寻访干员</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-付费购买皮肤"><span class="toc-text">3.付费购买皮肤</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#付费形式"><span class="toc-text">付费形式</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#付费层、投放与回收"><span class="toc-text">付费层、投放与回收</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#0氪玩家"><span class="toc-text">0氪玩家</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#小R玩家"><span class="toc-text">小R玩家</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#中R玩家"><span class="toc-text">中R玩家</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#中R投放总览"><span class="toc-text">中R投放总览</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#大R玩家"><span class="toc-text">大R玩家</span></a></li></ol></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#六、优劣分析与个人建议"><span class="toc-text">六、优劣分析与个人建议</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#优势"><span class="toc-text">优势</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#劣势"><span class="toc-text">劣势</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#个人建议与建议反思"><span class="toc-text">个人建议与建议反思</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#写在2022年"><span class="toc-text">写在2022年</span></a></li></ol></li></ol></div>
     </div>
     
     
@@ -574,7 +640,7 @@
     <div class="footer-container">
       <div class="footer-left">
         <div class="copyright">
-          <span class="author">Nouthest</span><span class="year"><i class="far fa-copyright"></i>2018 - 2021</span><span class="creative-commons"><i class="fab fa-creative-commons"></i><a href="http://creativecommons.org/licenses/BY-NC-SA/4.0/" target="_blank">BY-NC-SA 4.0</a></span>
+          <span class="author">Nouthest</span><span class="year"><i class="far fa-copyright"></i>2018 - 2022</span><span class="creative-commons"><i class="fab fa-creative-commons"></i><a href="http://creativecommons.org/licenses/BY-NC-SA/4.0/" target="_blank">BY-NC-SA 4.0</a></span>
         </div>
         
         <div class="busuanzi">

@@ -140,6 +140,61 @@
   
   <article class="article post card animate" itemscope itemtype="http://schema.org/Article">
     <div class="post-block">
+      <link itemprop="mainEntityOfPage" href="http://blog.DaPaoStudio.com/2022/03/03/Ti/">
+      <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="Nouthest">
+        <meta itemprop="description" content="希望去做不后悔的游戏">
+        <meta itemprop="image" content="/images/myAvatar.png">
+      </span>
+      <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="大炮's Blog">
+      </span>
+    </div>
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">
+        <a class="post-title-link post-title-link-external" href="/2022/03/03/Ti/" itemprop="url">游戏组招新福利题</a>
+      </h1>
+      <div class="post-meta">
+        
+        <span class="post-date">
+          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2022-03-03T18:03:40+08:00">2022-03-03 18:03:40</time></span>
+        </span>
+        
+        
+        
+        <span class="post-meta-divider divider">|</span>
+        
+        <span class="post-categories">
+          
+          <i class="far fa-folder-open"></i><span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/题目/" itemprop="url" rel="index"><span itemprop="name">题目</span></a></span><i class="fas fa-angle-right"></i><span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/题目/科协招新/" itemprop="url" rel="index"><span itemprop="name">科协招新</span></a></span>
+        </span>
+        
+        
+      </div>
+    </header>
+    <main class="post-main" itemprop="articleBody">
+      
+      <h1 id="SS-STA-Game组福利题"><a href="#SS-STA-Game组福利题" class="headerlink" title="SS::STA Game组福利题"></a>SS::STA Game组福利题</h1><h2 id="C-基础"><a href="#C-基础" class="headerlink" title="C#基础"></a>C#基础</h2><p>众所周知，贪吃蛇是早期最受欢迎的游戏之一。而要是需制作它，其中最重要的步骤就是当蛇吃到食物时，蛇身的伸长以及其随着蛇头的移动，现用两种方式实现上述功能，代码如下：</p>
+<p>[C# Script]<br><figure class="highlight CSharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br></pre></td><td class="code"><pre><code class="hljs CSharp"><span class="hljs-keyword">using</span> System.Collections;<br><br><span class="hljs-keyword">using</span> System.Collections.Generic;<br><br><span class="hljs-keyword">using</span> System.Linq;<br><br><span class="hljs-keyword">using</span> UnityEngine;<br><br>pubic <span class="hljs-keyword">class</span> <span class="hljs-title">snake</span> : <span class="hljs-title">MonoBehaviour</span><br><br>&#123;<br><br>         <span class="hljs-keyword">public</span> List&lt;Transform&gt;  bodylist= <span class="hljs-keyword">new</span> List&lt;Transform&gt; ;<br><br>         <span class="hljs-keyword">public</span> GameObject snakebody;<br><br>         <span class="hljs-keyword">public</span> Vector3 headpos;<br><br>         <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">Update</span> (<span class="hljs-params"></span>)<br><br>         </span>&#123;<br><br>                   <span class="hljs-keyword">if</span>(foodeating)               <span class="hljs-comment">//foodeating用来判定是否吃到食物，简略不表</span><br><br>                           grow();<br><br>                   move（）；<br><br>         &#125;<br><br>        <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">move</span>(<span class="hljs-params"></span>)<br><br>        </span>&#123;<br><br>                  headpos = <span class="hljs-keyword">this</span>.transform.position;<br><br>                  <span class="hljs-keyword">this</span>.transform.Translate(<span class="hljs-keyword">new</span> Vector3(x,y,z)); <span class="hljs-comment">//x，y，z的正负判定简略不表</span><br><br>                  <span class="hljs-keyword">if</span> (bodylist.Count &gt; <span class="hljs-number">0</span>)<br><br>                 &#123;<br><br>                    <span class="hljs-comment">//方法1</span><br><br>                           bodylist.Last().position = headpos;<br><br>                           bodylist.Insert(<span class="hljs-number">0</span>, bodylist.Last());<br><br>                           bodylist.RemoveAt(bodylist.Count - <span class="hljs-number">1</span>);<br><br>                   <span class="hljs-comment">//方法2</span><br><br>                           <span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i = bodylist.Count - <span class="hljs-number">2</span>; i &gt;= <span class="hljs-number">0</span>; i--)<br><br>                                     bodylist[i + <span class="hljs-number">1</span>].position = bodylist[i].position;<br><br>                           bodylist[<span class="hljs-number">0</span>].position = headpos;<br><br>                  &#125;<br><br>         &#125;<br><br>         <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">grow</span>(<span class="hljs-params"></span>)<br><br>         </span>&#123;<br><br>                 GameObject body = Instantiate(snakebody,<span class="hljs-keyword">new</span> Vector3(<span class="hljs-number">2000</span>,<span class="hljs-number">2000</span>,<span class="hljs-number">0</span>),Quaternion.identity);   <span class="hljs-comment">//新身体生成在屏幕外</span><br><br>                 bodylist.Add(body.transform);<br><br>    &#125;<br><br>&#125;<br></code></pre></td></tr></table></figure></p>
+      
+    </main>
+    <footer class="post-footer">
+      
+      <div class="post-tags">
+        
+        <a class="post-tag button" href="/tags/SSSTA游戏组/" rel="tag"><i class="fas fa-tags"></i>SSSTA游戏组</a>
+        
+        <a class="post-tag button" href="/tags/C/" rel="tag"><i class="fas fa-tags"></i>C#</a>
+        
+        <a class="post-tag button" href="/tags/Unity/" rel="tag"><i class="fas fa-tags"></i>Unity</a>
+        
+      </div>
+      
+    </footer>
+  </article>
+  
+  <article class="article post card animate" itemscope itemtype="http://schema.org/Article">
+    <div class="post-block">
       <link itemprop="mainEntityOfPage" href="http://blog.DaPaoStudio.com/2021/12/24/2021游戏记录/">
       <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
         <meta itemprop="name" content="Nouthest">
@@ -235,12 +290,7 @@
     <main class="post-main" itemprop="articleBody">
       
       <h1 id="Hades简单体验报告"><a href="#Hades简单体验报告" class="headerlink" title="Hades简单体验报告"></a>Hades简单体验报告</h1><p>体验人：张伟 <a href="mailto:dapaostudio@foxmail.com" target="_blank" rel="noopener">dapaostudio@foxmail.com</a></p>
-<h1 id="1-背景概述"><a href="#1-背景概述" class="headerlink" title="1.背景概述"></a>1.背景概述</h1><h2 id="1-1游戏体验"><a href="#1-1游戏体验" class="headerlink" title="1.1游戏体验"></a>1.1游戏体验</h2><p>体验平台：PC-Steam</p>
-<p>体验版本：正式版 Ver 1.38</p>
-<p>体验深度：时长81h、成就解锁93%、最终结局通关、最高挑战热度21</p>
-<p>体验时间：2021年1月-12月</p>
-<p>最后编辑时间：2021年12月20日</p>
-<h2 id="1-2游戏概述"><a href="#1-2游戏概述" class="headerlink" title="1.2游戏概述"></a>1.2游戏概述</h2><p>黑帝斯 (Hades) 是一款由美国独立工作室SuperGiant Games开发的一款以希腊神话为背景的高自由度的重剧情的轻度Rogue的ARPG游戏，你将扮演不朽的冥界王子，挥动来自奥林匹斯山充满神力的各种武器，获得奥林匹斯众神赋予的无匹神力，在一次又一次险恶的旅途中挣脱冥王哈迪斯的魔爪。</p>
+<h1 id="1-背景概述"><a href="#1-背景概述" class="headerlink" title="1.背景概述"></a>1.背景概述</h1><h2 id="1-1游戏概述"><a href="#1-1游戏概述" class="headerlink" title="1.1游戏概述"></a>1.1游戏概述</h2><p>黑帝斯 (Hades) 是一款由美国独立工作室SuperGiant Games开发的一款以希腊神话为背景的高自由度的重剧情的轻度Rogue的ARPG游戏，你将扮演不朽的冥界王子，挥动来自奥林匹斯山充满神力的各种武器，获得奥林匹斯众神赋予的无匹神力，在一次又一次险恶的旅途中挣脱冥王哈迪斯的魔爪。</p>
 <p><img src="/2021/12/19/哈迪斯简单体验报告/Title.png" alt=""></p>
       
     </main>
@@ -345,7 +395,7 @@
     <main class="post-main" itemprop="articleBody">
       
       <h1 id="明日方舟系统拆解与分析"><a href="#明日方舟系统拆解与分析" class="headerlink" title="明日方舟系统拆解与分析"></a>明日方舟系统拆解与分析</h1><blockquote>
-<p>张伟 大炮 <a href="mailto:Dapaostudio@Foxmail.com" target="_blank" rel="noopener">Dapaostudio@Foxmail.com</a><br>编写时间：2021/04/13<br>体验时间：2019年9月-2020年1月<br>这是一篇非常早期的分析文，里面有诸多点没有发现可以深挖（诸如资源投放的比例与玩家分层），未来有空会尝试体验最新的版本并进行更深一步的分析</p>
+<p>张伟 大炮 <a href="mailto:Dapaostudio@Foxmail.com" target="_blank" rel="noopener">Dapaostudio@Foxmail.com</a><br>编写时间：2021/04/13<br>最后更新时间：2022/02/28<br>体验时间：2019年9月-2020年1月<br>这是一篇非常早期的分析文，里面有诸多点没有发现可以深挖（诸如资源投放的比例与玩家分层），未来有空会尝试体验最新的版本并进行更深一步的分析</p>
 </blockquote>
 <h1 id="一、游戏简介"><a href="#一、游戏简介" class="headerlink" title="一、游戏简介"></a>一、游戏简介</h1><p><img src="/2021/04/13/明日方舟简单系统拆分/Title.png" alt=""></p>
       
@@ -455,7 +505,7 @@
       
       <p><div class="alert-red">本文引用图片共计189张，全文约2.9万字，将消耗流量约38MB。</div><br>这是一篇留给自己看的小结，比起其他强者们文章中华丽的辞藻，我写不出什么文艺的文字，只会记平铺直叙的流水账，能让在暗夜中前行的自己时不时回首看一看自己走过的路，记一记自己的思考，稍稍重建自己这个不自信的人的信心，足矣。</p>
 <h1 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h1><p>又到了每年例行的停下脚步回首过去一年的时候了<del>这都过去多久了</del>。今年期末考试和元旦假期撞上了，放假之后又没有动力去写（其实就是懒），但不写点流水账又觉得实在是对不起过去的这一年。时下正值这场始料未及的SARS-CoV-2在神州大地肆虐，宅在家中百无聊赖，新学期又即将开始，新的开始不应再提旧事，遂想着在开学前把这篇迟到一个多月的年末回顾给记上。既然都拖到快开学了，那干脆就不要拘谨是不是2019年的年终总结了，写到哪算哪吧。</p>
-<p>过去这一年对我个人来说虽并不算充实，但还是蛮精彩的，这一年我参加了两次Game Jam并且都玩得很开心、认识了很多厉害的业内大佬、一手创办的“Nova独游社”颇有起色、去了心心念念的核聚变、参加了西山居游戏的暑期实习、搬到学校家属区组了工作室……要说这一年留下的最浓墨重彩的一笔，那一定是：赶在这一年的尾巴遇到了一个我愿意在心底空出一片柔软的地方专门留给她的女孩。有贵人相助，有佳人在侧，甚幸！</p>
+<p>过去这一年对我个人来说虽并不算充实，但还是蛮精彩的，这一年我参加了两次Game Jam并且都玩得很开心、认识了很多厉害的业内大佬、一手创办的“Nova独游社”颇有起色、去了心心念念的核聚变、参加了西山居游戏的暑期实习、搬到学校家属区组了工作室……要说这一年留下的最浓墨重彩的一笔，那一定是：赶在这一年的尾巴遇到了一个我愿意在心底空出一片柔软的地方专门留给她的女孩。甚幸！</p>
 <p><img src="/2020/02/15/AboutMy2019/title.jpg" alt="这一年许下的愿望，一个都没实现……"></p>
       
     </main>
@@ -635,56 +685,6 @@
     </footer>
   </article>
   
-  <article class="article post card animate" itemscope itemtype="http://schema.org/Article">
-    <div class="post-block">
-      <link itemprop="mainEntityOfPage" href="http://blog.DaPaoStudio.com/2019/04/29/ALICE/">
-      <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <meta itemprop="name" content="Nouthest">
-        <meta itemprop="description" content="希望去做不后悔的游戏">
-        <meta itemprop="image" content="/images/myAvatar.png">
-      </span>
-      <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-        <meta itemprop="name" content="大炮's Blog">
-      </span>
-    </div>
-    <header class="post-header">
-      <h1 class="post-title" itemprop="name headline">
-        <a class="post-title-link post-title-link-external" href="/2019/04/29/ALICE/" itemprop="url">A.L.I.C.E 化身孤岛的鲸</a>
-      </h1>
-      <div class="post-meta">
-        
-        <span class="post-date">
-          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2019-04-29T20:57:26+08:00">2019-04-29 20:57:26</time></span>
-        </span>
-        
-        
-        
-        <span class="post-meta-divider divider">|</span>
-        
-        <span class="post-categories">
-          
-          <i class="far fa-folder-open"></i><span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/作品集/" itemprop="url" rel="index"><span itemprop="name">作品集</span></a></span>
-        </span>
-        
-        
-      </div>
-    </header>
-    <main class="post-main" itemprop="articleBody">
-      
-      <h1 id="A-L-I-C-E"><a href="#A-L-I-C-E" class="headerlink" title="A.L.I.C.E"></a>A.L.I.C.E</h1><h2 id="关于A-L-I-C-E"><a href="#关于A-L-I-C-E" class="headerlink" title="关于A.L.I.C.E"></a>关于A.L.I.C.E</h2><p>A.L.I.C.E是一款3D视角的休闲游戏，游戏讲述了Alice——一条52Hz的鲸鱼和一直跟随他的研究员的故事，作为全世界最孤独的鲸鱼，Alice渴望摆脱孤独。在游戏中玩家将化身为Alice，探索一个个风格迥异的海洋世界，避开随着时间越来越多的垃圾，让自己积蓄一定的能量后踏上前往下一片海域的远行，一路北上，从加州沿海到阿拉斯加，从北太平洋到白令海峡，直到找到另外一头相似的鲸，摆脱那该死的孤独<br><img src="/2019/04/29/ALICE/title.png" alt="我们把那头52Hz的鲸的故事做成了游戏"><br></p>
-      
-    </main>
-    <footer class="post-footer">
-      
-      <div class="post-tags">
-        
-        <a class="post-tag button" href="/tags/归档/" rel="tag"><i class="fas fa-tags"></i>归档</a>
-        
-      </div>
-      
-    </footer>
-  </article>
-  
   
   <nav class="pagination">
     <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="page-number" href="/page/3/">3</a><a class="extend next" rel="next" href="/page/2/"><i class="fas fa-angle-right" aria-label="下一页"></i></a>
@@ -816,7 +816,7 @@
     <div class="footer-container">
       <div class="footer-left">
         <div class="copyright">
-          <span class="author">Nouthest</span><span class="year"><i class="far fa-copyright"></i>2018 - 2021</span><span class="creative-commons"><i class="fab fa-creative-commons"></i><a href="http://creativecommons.org/licenses/BY-NC-SA/4.0/" target="_blank">BY-NC-SA 4.0</a></span>
+          <span class="author">Nouthest</span><span class="year"><i class="far fa-copyright"></i>2018 - 2022</span><span class="creative-commons"><i class="fab fa-creative-commons"></i><a href="http://creativecommons.org/licenses/BY-NC-SA/4.0/" target="_blank">BY-NC-SA 4.0</a></span>
         </div>
         
         <div class="busuanzi">

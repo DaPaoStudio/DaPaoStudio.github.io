@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2021-12-24T05:56:40.453Z</updated>
+  <updated>2018-12-29T10:15:29.861Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>游戏组招新福利题</title>
+    <link href="http://blog.DaPaoStudio.com/2022/03/03/Ti/"/>
+    <id>http://blog.DaPaoStudio.com/2022/03/03/Ti/</id>
+    <published>2022-03-03T10:03:40.289Z</published>
+    <updated>2018-12-29T10:15:29.861Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;SS-STA-Game组福利题&quot;&gt;&lt;a href=&quot;#SS-STA-Game组福利题&quot; class=&quot;headerlink&quot; title=&quot;SS::STA Game组福利题&quot;&gt;&lt;/a&gt;SS::STA Game组福利题&lt;/h1&gt;&lt;h2 id=&quot;C-基础&quot;&gt;&lt;a href=&quot;#C-基础&quot; class=&quot;headerlink&quot; title=&quot;C#基础&quot;&gt;&lt;/a&gt;C#基础&lt;/h2&gt;&lt;p&gt;众所周知，贪吃蛇是早期最受欢迎的游戏之一。而要是需制作它，其中最重要的步骤就是当蛇吃到食物时，蛇身的伸长以及其随着蛇头的移动，现用两种方式实现上述功能，代码如下：&lt;/p&gt;
+&lt;p&gt;[C# Script]&lt;br&gt;&lt;figure class=&quot;highlight CSharp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;59&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;60&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;61&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;62&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;63&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;64&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;65&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;66&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;67&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;68&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;69&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;70&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;71&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;72&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;73&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs CSharp&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;using&lt;/span&gt; System.Collections;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;using&lt;/span&gt; System.Collections.Generic;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;using&lt;/span&gt; System.Linq;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;using&lt;/span&gt; UnityEngine;&lt;br&gt;&lt;br&gt;pubic &lt;span class=&quot;hljs-keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;snake&lt;/span&gt; : &lt;span class=&quot;hljs-title&quot;&gt;MonoBehaviour&lt;/span&gt;&lt;br&gt;&lt;br&gt;&amp;#123;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt; List&amp;lt;Transform&amp;gt;  bodylist= &lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; List&amp;lt;Transform&amp;gt; ;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt; GameObject snakebody;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt; Vector3 headpos;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;Update&lt;/span&gt; (&lt;span class=&quot;hljs-params&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;         &lt;/span&gt;&amp;#123;&lt;br&gt;&lt;br&gt;                   &lt;span class=&quot;hljs-keyword&quot;&gt;if&lt;/span&gt;(foodeating)               &lt;span class=&quot;hljs-comment&quot;&gt;//foodeating用来判定是否吃到食物，简略不表&lt;/span&gt;&lt;br&gt;&lt;br&gt;                           grow();&lt;br&gt;&lt;br&gt;                   move（）；&lt;br&gt;&lt;br&gt;         &amp;#125;&lt;br&gt;&lt;br&gt;        &lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;move&lt;/span&gt;(&lt;span class=&quot;hljs-params&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;        &lt;/span&gt;&amp;#123;&lt;br&gt;&lt;br&gt;                  headpos = &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.transform.position;&lt;br&gt;&lt;br&gt;                  &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.transform.Translate(&lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; Vector3(x,y,z)); &lt;span class=&quot;hljs-comment&quot;&gt;//x，y，z的正负判定简略不表&lt;/span&gt;&lt;br&gt;&lt;br&gt;                  &lt;span class=&quot;hljs-keyword&quot;&gt;if&lt;/span&gt; (bodylist.Count &amp;gt; &lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;)&lt;br&gt;&lt;br&gt;                 &amp;#123;&lt;br&gt;&lt;br&gt;                    &lt;span class=&quot;hljs-comment&quot;&gt;//方法1&lt;/span&gt;&lt;br&gt;&lt;br&gt;                           bodylist.Last().position = headpos;&lt;br&gt;&lt;br&gt;                           bodylist.Insert(&lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;, bodylist.Last());&lt;br&gt;&lt;br&gt;                           bodylist.RemoveAt(bodylist.Count - &lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;);&lt;br&gt;&lt;br&gt;                   &lt;span class=&quot;hljs-comment&quot;&gt;//方法2&lt;/span&gt;&lt;br&gt;&lt;br&gt;                           &lt;span class=&quot;hljs-keyword&quot;&gt;for&lt;/span&gt; (&lt;span class=&quot;hljs-keyword&quot;&gt;int&lt;/span&gt; i = bodylist.Count - &lt;span class=&quot;hljs-number&quot;&gt;2&lt;/span&gt;; i &amp;gt;= &lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;; i--)&lt;br&gt;&lt;br&gt;                                     bodylist[i + &lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;].position = bodylist[i].position;&lt;br&gt;&lt;br&gt;                           bodylist[&lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;].position = headpos;&lt;br&gt;&lt;br&gt;                  &amp;#125;&lt;br&gt;&lt;br&gt;         &amp;#125;&lt;br&gt;&lt;br&gt;         &lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;hljs-title&quot;&gt;grow&lt;/span&gt;(&lt;span class=&quot;hljs-params&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;         &lt;/span&gt;&amp;#123;&lt;br&gt;&lt;br&gt;                 GameObject body = Instantiate(snakebody,&lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; Vector3(&lt;span class=&quot;hljs-number&quot;&gt;2000&lt;/span&gt;,&lt;span class=&quot;hljs-number&quot;&gt;2000&lt;/span&gt;,&lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;),Quaternion.identity);   &lt;span class=&quot;hljs-comment&quot;&gt;//新身体生成在屏幕外&lt;/span&gt;&lt;br&gt;&lt;br&gt;                 bodylist.Add(body.transform);&lt;br&gt;&lt;br&gt;    &amp;#125;&lt;br&gt;&lt;br&gt;&amp;#125;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="题目" scheme="http://blog.DaPaoStudio.com/categories/%E9%A2%98%E7%9B%AE/"/>
+    
+      <category term="科协招新" scheme="http://blog.DaPaoStudio.com/categories/%E9%A2%98%E7%9B%AE/%E7%A7%91%E5%8D%8F%E6%8B%9B%E6%96%B0/"/>
+    
+    
+      <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/tags/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
+    
+      <category term="C#" scheme="http://blog.DaPaoStudio.com/tags/C/"/>
+    
+      <category term="Unity" scheme="http://blog.DaPaoStudio.com/tags/Unity/"/>
+    
+  </entry>
   
   <entry>
     <title>2021游戏记录</title>
@@ -51,17 +78,12 @@
     <link href="http://blog.DaPaoStudio.com/2021/12/19/%E5%93%88%E8%BF%AA%E6%96%AF%E7%AE%80%E5%8D%95%E4%BD%93%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
     <id>http://blog.DaPaoStudio.com/2021/12/19/哈迪斯简单体验报告/</id>
     <published>2021-12-18T21:43:29.000Z</published>
-    <updated>2021-12-25T06:53:21.521Z</updated>
+    <updated>2022-03-02T17:55:04.028Z</updated>
     
     <summary type="html">
     
       &lt;h1 id=&quot;Hades简单体验报告&quot;&gt;&lt;a href=&quot;#Hades简单体验报告&quot; class=&quot;headerlink&quot; title=&quot;Hades简单体验报告&quot;&gt;&lt;/a&gt;Hades简单体验报告&lt;/h1&gt;&lt;p&gt;体验人：张伟 &lt;a href=&quot;mailto:dapaostudio@foxmail.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;dapaostudio@foxmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;1-背景概述&quot;&gt;&lt;a href=&quot;#1-背景概述&quot; class=&quot;headerlink&quot; title=&quot;1.背景概述&quot;&gt;&lt;/a&gt;1.背景概述&lt;/h1&gt;&lt;h2 id=&quot;1-1游戏体验&quot;&gt;&lt;a href=&quot;#1-1游戏体验&quot; class=&quot;headerlink&quot; title=&quot;1.1游戏体验&quot;&gt;&lt;/a&gt;1.1游戏体验&lt;/h2&gt;&lt;p&gt;体验平台：PC-Steam&lt;/p&gt;
-&lt;p&gt;体验版本：正式版 Ver 1.38&lt;/p&gt;
-&lt;p&gt;体验深度：时长81h、成就解锁93%、最终结局通关、最高挑战热度21&lt;/p&gt;
-&lt;p&gt;体验时间：2021年1月-12月&lt;/p&gt;
-&lt;p&gt;最后编辑时间：2021年12月20日&lt;/p&gt;
-&lt;h2 id=&quot;1-2游戏概述&quot;&gt;&lt;a href=&quot;#1-2游戏概述&quot; class=&quot;headerlink&quot; title=&quot;1.2游戏概述&quot;&gt;&lt;/a&gt;1.2游戏概述&lt;/h2&gt;&lt;p&gt;黑帝斯 (Hades) 是一款由美国独立工作室SuperGiant Games开发的一款以希腊神话为背景的高自由度的重剧情的轻度Rogue的ARPG游戏，你将扮演不朽的冥界王子，挥动来自奥林匹斯山充满神力的各种武器，获得奥林匹斯众神赋予的无匹神力，在一次又一次险恶的旅途中挣脱冥王哈迪斯的魔爪。&lt;/p&gt;
+&lt;h1 id=&quot;1-背景概述&quot;&gt;&lt;a href=&quot;#1-背景概述&quot; class=&quot;headerlink&quot; title=&quot;1.背景概述&quot;&gt;&lt;/a&gt;1.背景概述&lt;/h1&gt;&lt;h2 id=&quot;1-1游戏概述&quot;&gt;&lt;a href=&quot;#1-1游戏概述&quot; class=&quot;headerlink&quot; title=&quot;1.1游戏概述&quot;&gt;&lt;/a&gt;1.1游戏概述&lt;/h2&gt;&lt;p&gt;黑帝斯 (Hades) 是一款由美国独立工作室SuperGiant Games开发的一款以希腊神话为背景的高自由度的重剧情的轻度Rogue的ARPG游戏，你将扮演不朽的冥界王子，挥动来自奥林匹斯山充满神力的各种武器，获得奥林匹斯众神赋予的无匹神力，在一次又一次险恶的旅途中挣脱冥王哈迪斯的魔爪。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/2021/12/19/哈迪斯简单体验报告/Title.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
@@ -101,12 +123,12 @@
     <link href="http://blog.DaPaoStudio.com/2021/04/13/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%AE%80%E5%8D%95%E7%B3%BB%E7%BB%9F%E6%8B%86%E5%88%86/"/>
     <id>http://blog.DaPaoStudio.com/2021/04/13/明日方舟简单系统拆分/</id>
     <published>2021-04-12T21:43:29.000Z</published>
-    <updated>2021-12-26T04:12:52.388Z</updated>
+    <updated>2022-03-02T17:54:57.558Z</updated>
     
     <summary type="html">
     
       &lt;h1 id=&quot;明日方舟系统拆解与分析&quot;&gt;&lt;a href=&quot;#明日方舟系统拆解与分析&quot; class=&quot;headerlink&quot; title=&quot;明日方舟系统拆解与分析&quot;&gt;&lt;/a&gt;明日方舟系统拆解与分析&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;张伟 大炮 &lt;a href=&quot;mailto:Dapaostudio@Foxmail.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Dapaostudio@Foxmail.com&lt;/a&gt;&lt;br&gt;编写时间：2021/04/13&lt;br&gt;体验时间：2019年9月-2020年1月&lt;br&gt;这是一篇非常早期的分析文，里面有诸多点没有发现可以深挖（诸如资源投放的比例与玩家分层），未来有空会尝试体验最新的版本并进行更深一步的分析&lt;/p&gt;
+&lt;p&gt;张伟 大炮 &lt;a href=&quot;mailto:Dapaostudio@Foxmail.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Dapaostudio@Foxmail.com&lt;/a&gt;&lt;br&gt;编写时间：2021/04/13&lt;br&gt;最后更新时间：2022/02/28&lt;br&gt;体验时间：2019年9月-2020年1月&lt;br&gt;这是一篇非常早期的分析文，里面有诸多点没有发现可以深挖（诸如资源投放的比例与玩家分层），未来有空会尝试体验最新的版本并进行更深一步的分析&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&quot;一、游戏简介&quot;&gt;&lt;a href=&quot;#一、游戏简介&quot; class=&quot;headerlink&quot; title=&quot;一、游戏简介&quot;&gt;&lt;/a&gt;一、游戏简介&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2021/04/13/明日方舟简单系统拆分/Title.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
@@ -150,13 +172,13 @@
     <link href="http://blog.DaPaoStudio.com/2020/02/15/AboutMy2019/"/>
     <id>http://blog.DaPaoStudio.com/2020/02/15/AboutMy2019/</id>
     <published>2020-02-15T14:18:16.000Z</published>
-    <updated>2021-12-25T18:10:16.793Z</updated>
+    <updated>2022-01-15T21:00:27.321Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;&lt;div class=&quot;alert-red&quot;&gt;本文引用图片共计189张，全文约2.9万字，将消耗流量约38MB。&lt;/div&gt;&lt;br&gt;这是一篇留给自己看的小结，比起其他强者们文章中华丽的辞藻，我写不出什么文艺的文字，只会记平铺直叙的流水账，能让在暗夜中前行的自己时不时回首看一看自己走过的路，记一记自己的思考，稍稍重建自己这个不自信的人的信心，足矣。&lt;/p&gt;
 &lt;h1 id=&quot;Summary&quot;&gt;&lt;a href=&quot;#Summary&quot; class=&quot;headerlink&quot; title=&quot;Summary&quot;&gt;&lt;/a&gt;Summary&lt;/h1&gt;&lt;p&gt;又到了每年例行的停下脚步回首过去一年的时候了&lt;del&gt;这都过去多久了&lt;/del&gt;。今年期末考试和元旦假期撞上了，放假之后又没有动力去写（其实就是懒），但不写点流水账又觉得实在是对不起过去的这一年。时下正值这场始料未及的SARS-CoV-2在神州大地肆虐，宅在家中百无聊赖，新学期又即将开始，新的开始不应再提旧事，遂想着在开学前把这篇迟到一个多月的年末回顾给记上。既然都拖到快开学了，那干脆就不要拘谨是不是2019年的年终总结了，写到哪算哪吧。&lt;/p&gt;
-&lt;p&gt;过去这一年对我个人来说虽并不算充实，但还是蛮精彩的，这一年我参加了两次Game Jam并且都玩得很开心、认识了很多厉害的业内大佬、一手创办的“Nova独游社”颇有起色、去了心心念念的核聚变、参加了西山居游戏的暑期实习、搬到学校家属区组了工作室……要说这一年留下的最浓墨重彩的一笔，那一定是：赶在这一年的尾巴遇到了一个我愿意在心底空出一片柔软的地方专门留给她的女孩。有贵人相助，有佳人在侧，甚幸！&lt;/p&gt;
+&lt;p&gt;过去这一年对我个人来说虽并不算充实，但还是蛮精彩的，这一年我参加了两次Game Jam并且都玩得很开心、认识了很多厉害的业内大佬、一手创办的“Nova独游社”颇有起色、去了心心念念的核聚变、参加了西山居游戏的暑期实习、搬到学校家属区组了工作室……要说这一年留下的最浓墨重彩的一笔，那一定是：赶在这一年的尾巴遇到了一个我愿意在心底空出一片柔软的地方专门留给她的女孩。甚幸！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/2020/02/15/AboutMy2019/title.jpg&quot; alt=&quot;这一年许下的愿望，一个都没实现……&quot;&gt;&lt;/p&gt;
     
     </summary>
@@ -464,26 +486,6 @@
     
     
       <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2018年游戏组秋招面试题及答案</title>
-    <link href="http://blog.DaPaoStudio.com/2018/09/25/InterviewQuestion/"/>
-    <id>http://blog.DaPaoStudio.com/2018/09/25/InterviewQuestion/</id>
-    <published>2018-09-25T11:39:17.000Z</published>
-    <updated>2021-12-23T19:01:47.811Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;2018年游戏组秋招面试题及答案&quot;&gt;&lt;a href=&quot;#2018年游戏组秋招面试题及答案&quot; class=&quot;headerlink&quot; title=&quot;2018年游戏组秋招面试题及答案&quot;&gt;&lt;/a&gt;2018年游戏组秋招面试题及答案&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2018/09/25/InterviewQuestion/title.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
-    
-    
-      <category term="游戏组面试题" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
   </entry>
   
