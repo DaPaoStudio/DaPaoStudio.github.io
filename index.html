@@ -140,61 +140,6 @@
   
   <article class="article post card animate" itemscope itemtype="http://schema.org/Article">
     <div class="post-block">
-      <link itemprop="mainEntityOfPage" href="http://blog.DaPaoStudio.com/2022/03/07/Ti/">
-      <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <meta itemprop="name" content="Nouthest">
-        <meta itemprop="description" content="希望去做不后悔的游戏">
-        <meta itemprop="image" content="/images/myAvatar.png">
-      </span>
-      <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-        <meta itemprop="name" content="大炮's Blog">
-      </span>
-    </div>
-    <header class="post-header">
-      <h1 class="post-title" itemprop="name headline">
-        <a class="post-title-link post-title-link-external" href="/2022/03/07/Ti/" itemprop="url">游戏组招新福利题</a>
-      </h1>
-      <div class="post-meta">
-        
-        <span class="post-date">
-          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2022-03-07T02:14:28+08:00">2022-03-07 02:14:28</time></span>
-        </span>
-        
-        
-        
-        <span class="post-meta-divider divider">|</span>
-        
-        <span class="post-categories">
-          
-          <i class="far fa-folder-open"></i><span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/题目/" itemprop="url" rel="index"><span itemprop="name">题目</span></a></span><i class="fas fa-angle-right"></i><span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/题目/科协招新/" itemprop="url" rel="index"><span itemprop="name">科协招新</span></a></span>
-        </span>
-        
-        
-      </div>
-    </header>
-    <main class="post-main" itemprop="articleBody">
-      
-      <h1 id="SS-STA-Game组福利题"><a href="#SS-STA-Game组福利题" class="headerlink" title="SS::STA Game组福利题"></a>SS::STA Game组福利题</h1><h2 id="C-基础"><a href="#C-基础" class="headerlink" title="C#基础"></a>C#基础</h2><p>众所周知，贪吃蛇是早期最受欢迎的游戏之一。而要是需制作它，其中最重要的步骤就是当蛇吃到食物时，蛇身的伸长以及其随着蛇头的移动，现用两种方式实现上述功能，代码如下：</p>
-<p>[C# Script]<br><figure class="highlight CSharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br></pre></td><td class="code"><pre><code class="hljs CSharp"><span class="hljs-keyword">using</span> System.Collections;<br><br><span class="hljs-keyword">using</span> System.Collections.Generic;<br><br><span class="hljs-keyword">using</span> System.Linq;<br><br><span class="hljs-keyword">using</span> UnityEngine;<br><br>pubic <span class="hljs-keyword">class</span> <span class="hljs-title">snake</span> : <span class="hljs-title">MonoBehaviour</span><br><br>&#123;<br><br>         <span class="hljs-keyword">public</span> List&lt;Transform&gt;  bodylist= <span class="hljs-keyword">new</span> List&lt;Transform&gt; ;<br><br>         <span class="hljs-keyword">public</span> GameObject snakebody;<br><br>         <span class="hljs-keyword">public</span> Vector3 headpos;<br><br>         <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">Update</span> (<span class="hljs-params"></span>)<br><br>         </span>&#123;<br><br>                   <span class="hljs-keyword">if</span>(foodeating)               <span class="hljs-comment">//foodeating用来判定是否吃到食物，简略不表</span><br><br>                           grow();<br><br>                   move（）；<br><br>         &#125;<br><br>        <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">move</span>(<span class="hljs-params"></span>)<br><br>        </span>&#123;<br><br>                  headpos = <span class="hljs-keyword">this</span>.transform.position;<br><br>                  <span class="hljs-keyword">this</span>.transform.Translate(<span class="hljs-keyword">new</span> Vector3(x,y,z)); <span class="hljs-comment">//x，y，z的正负判定简略不表</span><br><br>                  <span class="hljs-keyword">if</span> (bodylist.Count &gt; <span class="hljs-number">0</span>)<br><br>                 &#123;<br><br>                    <span class="hljs-comment">//方法1</span><br><br>                           bodylist.Last().position = headpos;<br><br>                           bodylist.Insert(<span class="hljs-number">0</span>, bodylist.Last());<br><br>                           bodylist.RemoveAt(bodylist.Count - <span class="hljs-number">1</span>);<br><br>                   <span class="hljs-comment">//方法2</span><br><br>                           <span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i = bodylist.Count - <span class="hljs-number">2</span>; i &gt;= <span class="hljs-number">0</span>; i--)<br><br>                                     bodylist[i + <span class="hljs-number">1</span>].position = bodylist[i].position;<br><br>                           bodylist[<span class="hljs-number">0</span>].position = headpos;<br><br>                  &#125;<br><br>         &#125;<br><br>         <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">grow</span>(<span class="hljs-params"></span>)<br><br>         </span>&#123;<br><br>                 GameObject body = Instantiate(snakebody,<span class="hljs-keyword">new</span> Vector3(<span class="hljs-number">2000</span>,<span class="hljs-number">2000</span>,<span class="hljs-number">0</span>),Quaternion.identity);   <span class="hljs-comment">//新身体生成在屏幕外</span><br><br>                 bodylist.Add(body.transform);<br><br>    &#125;<br><br>&#125;<br></code></pre></td></tr></table></figure></p>
-      
-    </main>
-    <footer class="post-footer">
-      
-      <div class="post-tags">
-        
-        <a class="post-tag button" href="/tags/SSSTA游戏组/" rel="tag"><i class="fas fa-tags"></i>SSSTA游戏组</a>
-        
-        <a class="post-tag button" href="/tags/C/" rel="tag"><i class="fas fa-tags"></i>C#</a>
-        
-        <a class="post-tag button" href="/tags/Unity/" rel="tag"><i class="fas fa-tags"></i>Unity</a>
-        
-      </div>
-      
-    </footer>
-  </article>
-  
-  <article class="article post card animate" itemscope itemtype="http://schema.org/Article">
-    <div class="post-block">
       <link itemprop="mainEntityOfPage" href="http://blog.DaPaoStudio.com/2022/02/20/原神系统拆解与分析/">
       <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
         <meta itemprop="name" content="Nouthest">
@@ -680,6 +625,60 @@
       <div class="post-tags">
         
         <a class="post-tag button" href="/tags/实习/" rel="tag"><i class="fas fa-tags"></i>实习</a>
+        
+      </div>
+      
+    </footer>
+  </article>
+  
+  <article class="article post card animate" itemscope itemtype="http://schema.org/Article">
+    <div class="post-block">
+      <link itemprop="mainEntityOfPage" href="http://blog.DaPaoStudio.com/2019/07/14/诛心5/">
+      <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="Nouthest">
+        <meta itemprop="description" content="希望去做不后悔的游戏">
+        <meta itemprop="image" content="/images/myAvatar.png">
+      </span>
+      <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="大炮's Blog">
+      </span>
+    </div>
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">
+        <a class="post-title-link post-title-link-external" href="/2019/07/14/诛心5/" itemprop="url">诛心5</a>
+      </h1>
+      <div class="post-meta">
+        
+        <span class="post-date">
+          <i class="far fa-calendar-plus"></i><span><time title="post-date" itemprop="dateCreated datePublished" datetime="2019-07-14T20:57:44+08:00">2019-07-14 20:57:44</time></span>
+        </span>
+        
+        
+        
+        <span class="post-meta-divider divider">|</span>
+        
+        <span class="post-categories">
+          
+          <i class="far fa-folder-open"></i><span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/作品集/" itemprop="url" rel="index"><span itemprop="name">作品集</span></a></span>
+        </span>
+        
+        
+      </div>
+    </header>
+    <main class="post-main" itemprop="articleBody">
+      
+      <h1 id="CGJ作品-诛心5"><a href="#CGJ作品-诛心5" class="headerlink" title="[CGJ作品]诛心5"></a>[CGJ作品]诛心5</h1><h2 id="关于诛心5"><a href="#关于诛心5" class="headerlink" title="关于诛心5"></a>关于诛心5</h2><p>《诛心5》（又名《心你太软》）是一款在CiGA Game Jam 2019 西安站由队伍“牢不可破的联盟”开发的一款休闲游戏。</p>
+<p>游戏讲述了一个因为感情被绿茶伤害后❤被伤害成△变得莫得感情的人如何拒绝来自一众爱慕者的告白的故事（仔细观察游戏内的背景即可发现）</p>
+<p>玩家将在限定大小的空间里躲避并手刃掉一波又一波爱慕者们发射来的<strong>♡</strong>，没被手刃掉的❤会继续飞行并且在碰到墙壁后反弹，随着时间的推移❤发射的频率会越来越高，反弹的模式也会越来越难预测，被❤碰到会扣除一点生命值，吃到△可以回复一点生命值，角色的生命值归零后游戏结束<br><img src="/2019/07/14/诛心5/title.png" alt="我也不知道前四代去哪了"><br></p>
+      
+    </main>
+    <footer class="post-footer">
+      
+      <div class="post-tags">
+        
+        <a class="post-tag button" href="/tags/归档/" rel="tag"><i class="fas fa-tags"></i>归档</a>
+        
+        <a class="post-tag button" href="/tags/GameJam作品/" rel="tag"><i class="fas fa-tags"></i>GameJam作品</a>
         
       </div>
       
