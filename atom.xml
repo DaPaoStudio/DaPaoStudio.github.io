@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2022-07-12T16:34:07.293Z</updated>
+  <updated>2023-11-24T06:11:22.068Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2022游戏记录</title>
+    <link href="http://blog.DaPaoStudio.com/2022/12/31/PGN2022/"/>
+    <id>http://blog.DaPaoStudio.com/2022/12/31/PGN2022/</id>
+    <published>2022-12-30T19:35:50.000Z</published>
+    <updated>2023-11-24T06:11:22.068Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;2022年游戏记录&quot;&gt;&lt;a href=&quot;#2022年游戏记录&quot; class=&quot;headerlink&quot; title=&quot;2022年游戏记录&quot;&gt;&lt;/a&gt;2022年游戏记录&lt;/h1&gt;&lt;p&gt;今年一共通关了15款游戏，并没有追求新，主要还是集中于多把以前想玩的游戏打通了。&lt;/p&gt;
+&lt;p&gt;今年PGN最佳游戏颁给PS2平台的《超级机器人大战OGS》&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2022/12/31/PGN2022/OGS.jpg&quot; alt=&quot;Pao Games Network Game of the Year&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PGN最佳角色扮演游戏：《最终幻想14:晓月之终途》&lt;/li&gt;
+&lt;li&gt;PGN最佳音乐：《最终幻想14:晓月之终途》&lt;/li&gt;
+&lt;li&gt;PGN最佳动作游戏：《黎明前的20分钟》&lt;/li&gt;
+&lt;li&gt;PGN最佳合作游戏：《PicoPark》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/2022/12/31/PGN2022/PicoPark.jpg&quot; alt=&quot;这款游戏承载了我太多的记忆&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PGN最佳独立游戏：《Unpack》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;未来还会继续把库里堆积成山的游戏慢慢消化吸收，共勉。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Review" scheme="http://blog.DaPaoStudio.com/categories/Review/"/>
+    
+    
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>原神系统拆解与分析</title>
     <link href="http://blog.DaPaoStudio.com/2022/02/28/%E5%8E%9F%E7%A5%9E%E7%B3%BB%E7%BB%9F%E6%8B%86%E8%A7%A3%E4%B8%8E%E5%88%86%E6%9E%90/"/>
     <id>http://blog.DaPaoStudio.com/2022/02/28/原神系统拆解与分析/</id>
     <published>2022-02-28T05:43:29.000Z</published>
-    <updated>2022-07-12T16:34:07.293Z</updated>
+    <updated>2022-08-18T13:25:15.240Z</updated>
     
     <summary type="html">
     
@@ -464,26 +497,6 @@
     <summary type="html">
     
       &lt;h1 id=&quot;第三人称控制器与HUD&quot;&gt;&lt;a href=&quot;#第三人称控制器与HUD&quot; class=&quot;headerlink&quot; title=&quot;第三人称控制器与HUD&quot;&gt;&lt;/a&gt;第三人称控制器与HUD&lt;/h1&gt;&lt;p&gt;时间：2018年10月21日下午2:00-4:30&lt;br&gt;地点：G302&lt;br&gt;   &lt;img src=&quot;/2018/10/23/ThirdMeet/title.png&quot; alt=&quot;可能是因为前一天RNG输了，所以这一次少了好多人&quot;&gt;&lt;br&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
-    
-    
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第二次技术分享会</title>
-    <link href="http://blog.DaPaoStudio.com/2018/10/15/SecondMeet/"/>
-    <id>http://blog.DaPaoStudio.com/2018/10/15/SecondMeet/</id>
-    <published>2018-10-15T09:31:48.000Z</published>
-    <updated>2018-11-23T08:01:28.711Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;游戏设计文档-amp-Unity界面介绍&quot;&gt;&lt;a href=&quot;#游戏设计文档-amp-Unity界面介绍&quot; class=&quot;headerlink&quot; title=&quot;游戏设计文档&amp;amp;Unity界面介绍&quot;&gt;&lt;/a&gt;游戏设计文档&amp;amp;Unity界面介绍&lt;/h1&gt;&lt;p&gt;时间：2018年10月14日下午2:00-4:30&lt;br&gt;地点：G302&lt;br&gt;&lt;img src=&quot;/2018/10/15/SecondMeet/Unity.png&quot; alt=&quot;第二次来了29人，嗯，比预想的留存率好了很多&quot;&gt;&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
