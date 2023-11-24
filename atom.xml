@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2023-11-24T06:47:38.364Z</updated>
+  <updated>2023-11-24T06:55:49.850Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>重新连接</title>
+    <link href="http://blog.DaPaoStudio.com/2023/11/24/ReConnected/"/>
+    <id>http://blog.DaPaoStudio.com/2023/11/24/ReConnected/</id>
+    <published>2023-11-24T06:35:50.000Z</published>
+    <updated>2023-11-24T06:55:49.850Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;重新连接&quot;&gt;&lt;a href=&quot;#重新连接&quot; class=&quot;headerlink&quot; title=&quot;重新连接&quot;&gt;&lt;/a&gt;重新连接&lt;/h1&gt;&lt;p&gt;​       
+        
+      
+    
+    </summary>
+    
+      <category term="Life" scheme="http://blog.DaPaoStudio.com/categories/Life/"/>
+    
+    
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>2022游戏记录</title>
@@ -467,26 +493,6 @@
     
       &lt;h1 id=&quot;Unity动画与射击-amp-鸽子处刑&quot;&gt;&lt;a href=&quot;#Unity动画与射击-amp-鸽子处刑&quot; class=&quot;headerlink&quot; title=&quot;Unity动画与射击&amp;amp;鸽子处刑&quot;&gt;&lt;/a&gt;Unity动画与射击&amp;amp;鸽子处刑&lt;/h1&gt;&lt;p&gt;时间：2018年11月18日下午2:00-4:00&lt;br&gt;地点：G302&lt;/p&gt;
 &lt;p&gt;   &lt;img src=&quot;/2018/11/20/4thMeet/title.jpg&quot; alt=&quot;一定是因为我鸽了所以人才那么少的（叉腰&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
-    
-    
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第三次技术分享会</title>
-    <link href="http://blog.DaPaoStudio.com/2018/10/23/ThirdMeet/"/>
-    <id>http://blog.DaPaoStudio.com/2018/10/23/ThirdMeet/</id>
-    <published>2018-10-23T08:38:43.000Z</published>
-    <updated>2018-11-23T08:01:59.494Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;第三人称控制器与HUD&quot;&gt;&lt;a href=&quot;#第三人称控制器与HUD&quot; class=&quot;headerlink&quot; title=&quot;第三人称控制器与HUD&quot;&gt;&lt;/a&gt;第三人称控制器与HUD&lt;/h1&gt;&lt;p&gt;时间：2018年10月21日下午2:00-4:30&lt;br&gt;地点：G302&lt;br&gt;   &lt;img src=&quot;/2018/10/23/ThirdMeet/title.png&quot; alt=&quot;可能是因为前一天RNG输了，所以这一次少了好多人&quot;&gt;&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
