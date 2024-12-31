@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2024-01-01T13:56:17.329Z</updated>
+  <updated>2024-12-31T16:59:32.186Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024游戏记录</title>
+    <link href="http://blog.DaPaoStudio.com/2024/12/31/PGN2024/"/>
+    <id>http://blog.DaPaoStudio.com/2024/12/31/PGN2024/</id>
+    <published>2024-12-31T09:22:07.000Z</published>
+    <updated>2024-12-31T16:59:32.186Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;2024年游戏记录&quot;&gt;&lt;a href=&quot;#2024年游戏记录&quot; class=&quot;headerlink&quot; title=&quot;2024年游戏记录&quot;&gt;&lt;/a&gt;2024年游戏记录&lt;/h1&gt;&lt;p&gt;今年一共通关了26款游戏，看似比去年多很多，但是仔细观察就会发现，今年我把很多手游和网游也加入了游玩游戏列表里，作为从业人员，这其实也正常，长时间体验手游历来是手游游戏策划的工作，这个记录也多半是写给自己看，所以未来会把游玩事件超过2个月的手机游戏，都列入本年的通关游戏里，通关时间以开始游玩的时间计算（写到这儿突然发现漏了一个三角洲行动，打了一个半的赛季，还挺符合我口味的……）。此外也有很多肉鸽，按照Any%的通关方式，只不过打了难度1难度2，还有很多的复玩空间，属实有点遮羞布的意思了。今年还购入了PS5，拿来品品一下TGA年度游戏，并且为FF7RE和GTA6打个铺垫，许愿明年可以买到NS2，让我能把买了一年半没打开的王国之泪，以更好的性能打完。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2024/12/31/PGN2024/Steam.jpg&quot; alt=&quot;Steam统计的年度游戏时长，3~6月没有在工作&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Review" scheme="http://blog.DaPaoStudio.com/categories/Review/"/>
+    
+    
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>2023游戏记录</title>
@@ -476,27 +497,6 @@
       <category term="GameJam准备" scheme="http://blog.DaPaoStudio.com/tags/GameJam%E5%87%86%E5%A4%87/"/>
     
       <category term="头脑风暴" scheme="http://blog.DaPaoStudio.com/tags/%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第五次技术分享会</title>
-    <link href="http://blog.DaPaoStudio.com/2018/11/27/5thMeet/"/>
-    <id>http://blog.DaPaoStudio.com/2018/11/27/5thMeet/</id>
-    <published>2018-11-27T10:33:07.000Z</published>
-    <updated>2021-12-25T18:11:02.648Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;Unity的UI与电子游戏中的角色、敌人设计&quot;&gt;&lt;a href=&quot;#Unity的UI与电子游戏中的角色、敌人设计&quot; class=&quot;headerlink&quot; title=&quot;Unity的UI与电子游戏中的角色、敌人设计&quot;&gt;&lt;/a&gt;Unity的UI与电子游戏中的角色、敌人设计&lt;/h1&gt;&lt;p&gt;时间：2018年11月25日下午2:00-4:30&lt;br&gt;地点：G302&lt;/p&gt;
-&lt;p&gt;   &lt;img src=&quot;/2018/11/27/5thMeet/pao.png&quot; alt=&quot;我也上一次封面（老脸一红&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="SSSTA游戏组" scheme="http://blog.DaPaoStudio.com/categories/SSSTA%E6%B8%B8%E6%88%8F%E7%BB%84/"/>
-    
-    
-      <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
     
   </entry>
   
