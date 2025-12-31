@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.DaPaoStudio.com/"/>
-  <updated>2025-01-01T07:53:21.603Z</updated>
+  <updated>2025-12-31T19:08:42.804Z</updated>
   <id>http://blog.DaPaoStudio.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2024游戏记录</title>
+    <title>2025年游戏记录</title>
+    <link href="http://blog.DaPaoStudio.com/2025/12/31/PGN2025/"/>
+    <id>http://blog.DaPaoStudio.com/2025/12/31/PGN2025/</id>
+    <published>2025-12-31T15:22:07.000Z</published>
+    <updated>2025-12-31T19:08:42.804Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;2025年游戏记录&quot;&gt;&lt;a href=&quot;#2025年游戏记录&quot; class=&quot;headerlink&quot; title=&quot;2025年游戏记录&quot;&gt;&lt;/a&gt;2025年游戏记录&lt;/h1&gt;&lt;p&gt;今年一共通关了25款游戏，工作之后，尤其是发现每一份工作都免不了大量的加班，能维持这个数量已经实属不易，今年开始也对这里的记录的规则进行修改，把手游的长期体验，也算作当年的通关游戏中，标准大概是完整游玩了一个赛季或者一个大版本。今年对我来说是非常特别的一年，经历了上线项目的快速滑落、临终关怀、甚至是外服的关服（也可以说自己经历过完整的项目生命周期了，从生到死的那种），离开了工作三年的公司，也离开了熟悉的城市，甚至更换了自己的职业水晶，幸运的是，终于进入了我心心念念的射击品类，虽然在这个品类我还只是一个小卡拉米，但多给我点时间，我还是相信自己有机会在这个品类里找到自己独特的定位的。今年购入了NS2，但因为从离职到入职下家几乎是无缝的，也没怎么玩，希望2026年可以多弥补些遗憾，多给自己留一些沙发上的时间。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2025/12/31/PGN2025/steam.jpg&quot; alt=&quot;Steam统计的年度游戏时长，6月开始连轴转&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Review" scheme="http://blog.DaPaoStudio.com/categories/Review/"/>
+    
+    
+      <category term="归档" scheme="http://blog.DaPaoStudio.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2024年游戏记录</title>
     <link href="http://blog.DaPaoStudio.com/2024/12/31/PGN2024/"/>
     <id>http://blog.DaPaoStudio.com/2024/12/31/PGN2024/</id>
     <published>2024-12-31T09:22:07.000Z</published>
-    <updated>2025-01-01T07:53:21.603Z</updated>
+    <updated>2025-01-14T07:01:12.329Z</updated>
     
     <summary type="html">
     
@@ -467,36 +488,6 @@
     
     
       <category term="游戏组活动归档" scheme="http://blog.DaPaoStudio.com/tags/%E6%B8%B8%E6%88%8F%E7%BB%84%E6%B4%BB%E5%8A%A8%E5%BD%92%E6%A1%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>头脑风暴：简单有效的获取灵感的方式</title>
-    <link href="http://blog.DaPaoStudio.com/2018/11/30/BrainStorm/"/>
-    <id>http://blog.DaPaoStudio.com/2018/11/30/BrainStorm/</id>
-    <published>2018-11-30T03:06:37.000Z</published>
-    <updated>2021-12-25T18:12:02.520Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2018/11/30/BrainStorm/title.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;当一个团队想通过群策群力来解决一个难题时，头脑风暴是必不可少的一项活动，但很多时候容易陷入两种极端：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;一是陷于灵感枯竭状态，大家相互大眼瞪小眼，会议毫无进展；&lt;br&gt;二是聊嗨了，畅所欲言但漫无边际、离题万里。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;毫无疑问，这两种情况都难以达到会议初衷。&lt;/p&gt;
-&lt;p&gt;所以下面将简单介绍一下头脑风暴以及如何开展一个有效的面向游戏设计的头脑风暴&lt;/p&gt;
-&lt;hr&gt;
-    
-    </summary>
-    
-      <category term="Nova独游社" scheme="http://blog.DaPaoStudio.com/categories/Nova%E7%8B%AC%E6%B8%B8%E7%A4%BE/"/>
-    
-    
-      <category term="GameJam准备" scheme="http://blog.DaPaoStudio.com/tags/GameJam%E5%87%86%E5%A4%87/"/>
-    
-      <category term="头脑风暴" scheme="http://blog.DaPaoStudio.com/tags/%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4/"/>
     
   </entry>
   
